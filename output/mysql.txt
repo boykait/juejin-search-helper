@@ -2,992 +2,347 @@
 索引#MySQL索引和SQL调优@https://juejin.im/post/5a6873fbf265da3e393a97fa@422@14
 优化#MySQL优化原理@https://juejin.im/entry/5ad6e5cd6fb9a028cc61c136@380@1
 面试#优化#MySQL优化面试@https://juejin.im/post/5c6b9c09f265da2d8a55a855@331@14
+其它#一千行MySQL命令@https://juejin.im/post/5d6faf8f6fb9a06b0b1c9535@531@16
 优化#MySQL(二) MySql常用优化@https://juejin.im/post/5ab75902f265da238c3aa446@126@3
-其它#一千行MySQL命令@https://juejin.im/post/5d6faf8f6fb9a06b0b1c9535@528@16
 其它#MySQL系列-- 1.MySQL架构@https://juejin.im/post/59ec528bf265da43333d8bb0@109@1
 锁#MySql(三) MySql中的锁机制@https://juejin.im/post/5b9332685188255c432279aa@108@7
 其它#MySQL 的七种 join@https://juejin.im/entry/58d8d3d5b123db199f462726@166@10
 其它#Mysql常用SQL语句集锦 | 掘金技术征文@https://juejin.im/post/584e7b298d6d81005456eb53@1679@57
-锁#事务#MySQL 笔记 - 事务&锁@https://juejin.im/post/5b76938de51d45664715fba8@308@12
-其它#Mysql 与 Pymysql@https://juejin.im/post/58cd10e944d9040068386a4e@79@0
+锁#事务#MySQL 笔记 - 事务&锁@https://juejin.im/post/5b76938de51d45664715fba8@309@12
 优化#mysql order by 优化@https://juejin.im/post/5b49ba926fb9a04fc436b1b4@126@2
+其它#Mysql 与 Pymysql@https://juejin.im/post/58cd10e944d9040068386a4e@79@0
 其它#MySQL 基础@https://juejin.im/entry/590eb1bca0bb9f005896f77d@92@1
-锁#事务#mysql之锁与事务@https://juejin.im/post/5ab5e44a6fb9a028c97a013d@148@1
 优化#MySQL优化那些事儿@https://juejin.im/post/5a9b6342f265da23a2289281@223@4
 优化#MySQL 大表优化方案@https://juejin.im/entry/5865cff1ac502e006d5eaf4a@237@3
-优化#索引#Mysql索引优化@https://segmentfault.com/a/1190000009717352@129@3
+锁#事务#mysql之锁与事务@https://juejin.im/post/5ab5e44a6fb9a028c97a013d@148@1
 其它#一个小时学会 MySQL 数据库@https://juejin.im/entry/58e6367ab123db15eb85323b@405@3
 其它#MySQL入门教程系列－1.4 MySQL工具@https://juejin.im/post/57e814da0bd1d0005b07935c@90@0
+优化#索引#Mysql索引优化@https://segmentfault.com/a/1190000009717352@129@3
 优化#MySQL 性能优化技巧@https://juejin.im/post/59d83f1651882545eb54fc7e@199@4
-其它#走进mysql基础@https://juejin.im/post/5a76f6d55188257a5c6043dc@125@2
 其它#20 分钟 MySQL 基础入门@https://juejin.im/entry/57d60ef80e3dd90069de1eb5@371@4
 其它#用 ElasticSearch 监控 MySQL@http://www.jianshu.com/p/8d25f02535f0@125@1
-索引#MySQL - 索引详解@https://juejin.im/entry/5a448726f265da43062b10f1@113@1
+其它#走进mysql基础@https://juejin.im/post/5a76f6d55188257a5c6043dc@125@2
 事务#MySQL 事务学习总结@https://fdx321.github.io/2016/09/09/MySQL%E4%BA%8B%E5%8A%A1%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/#more@157@0
 优化#索引#MySQL 索引与优化@https://juejin.im/entry/591fb1cea22b9d0058673919@101@2
-优化#项目中常用的19条MySQL优化@https://juejin.im/entry/5a1bbb386fb9a044fc4475aa@327@3
+索引#MySQL - 索引详解@https://juejin.im/entry/5a448726f265da43062b10f1@113@1
 优化#MySQL 大表优化方案@https://juejin.im/entry/57a2a7e86be3ff006510907d@150@0
+优化#项目中常用的19条MySQL优化@https://juejin.im/entry/5a1bbb386fb9a044fc4475aa@327@3
 其它#表情在 MySQL 的存储详解@http://blog.720ui.com/2016/mysql_action_10_emotion/@158@1
 索引#Mysql 索引精讲@https://juejin.im/post/5ccfdb05e51d453b7f0a0d4f@99@14
 索引#MySQL 索引设计概要@http://draveness.me/sql-index-intro.html@151@1
+锁#MySQL 表锁和行锁机制@https://juejin.im/entry/5a55c7976fb9a01cba42786f@128@8
 优化#MySql 日常指导，及大表优化思路@https://juejin.im/post/5b7d52afe51d453885030b91@265@8
-锁#MySQL 表锁和行锁机制@https://juejin.im/entry/5a55c7976fb9a01cba42786f@127@8
 锁#【180414】分布式锁（redis/mysql）@https://juejin.im/post/5ad1c89c51882555784e6578@149@4
-其它#MySQL命令，一篇文章替你全部搞定@https://juejin.im/post/5ae55861f265da0ba062ec71@1140@16
+其它#MySQL命令，一篇文章替你全部搞定@https://juejin.im/post/5ae55861f265da0ba062ec71@1141@16
 其它#MySQL入门教程系列－1.3 什么是MySQL@https://juejin.im/post/57ec71bba22b9d005ba80c3e@80@0
 索引#MySQL中的索引详讲@https://juejin.im/post/5ba5f443f265da0ab673bb93@132@1
 其它#从 MongoDB 及 Mysql 谈B/B+树@https://juejin.im/entry/5b7d0003e51d45389f54c7b6@83@0
 面试#互联网公司面试必问的mysql题目(下）@https://juejin.im/post/5ba1f32ee51d450e805b43f2@490@10
-其它#MySQL，从入门到熟练@https://juejin.im/entry/590e939444d904007be4da37@126@1
 优化#万字总结：学习MySQL优化原理@https://juejin.im/entry/59ccaabf6fb9a00a5143aff6@247@2
+其它#MySQL，从入门到熟练@https://juejin.im/entry/590e939444d904007be4da37@126@1
 其它#MySQL 读写分离技术@https://juejin.im/entry/58f9fb295c497d0058ee2db7@114@0
 优化#MySQL大表优化方案@http://geek.csdn.net/news/detail/236081@120@0
-优化#21 条最佳 MySQL 性能优化@https://juejin.im/entry/575620b1128fe10056efc166@211@1
 索引# mysql之高性能索引@https://juejin.im/post/5ab34d21f265da23766b30ed@221@4
-其它#Mysql 主从同步实战@https://juejin.im/post/58eb5d162f301e00624f014a@97@0
+优化#21 条最佳 MySQL 性能优化@https://juejin.im/entry/575620b1128fe10056efc166@211@1
 锁#事务#深入理解Mysql——锁、事务与并发控制@https://juejin.im/entry/5aa9ed73518825558b3da65e@367@3
 优化#索引#MySQL 笔记 - 索引优化@https://juejin.im/post/5b6fd2b85188256128593eca@115@0
+其它#Mysql 主从同步实战@https://juejin.im/post/58eb5d162f301e00624f014a@97@0
 其它#精选MySQL入门到进阶书籍@https://juejin.im/post/59b261686fb9a00a3e302a1e@182@0
-其它#Node+Koa2+Mysql 搭建简易博客@http://www.wclimb.site/2017/07/12/Node-Koa2-Mysql-搭建简易博客/@247@7
-其它#MySQL参考手册中文版@https://juejin.im/entry/59bd3e2ef265da064c384c9a@187@3
 其它#MySQL 的进阶实战篇@http://blog.csdn.net/javazejian/article/details/69857949@103@1
 优化#索引#MySQL索引与查询优化@https://juejin.im/post/5cb1dec9f265da0382610968@174@21
+其它#MySQL参考手册中文版@https://juejin.im/entry/59bd3e2ef265da064c384c9a@187@3
+其它#Node+Koa2+Mysql 搭建简易博客@http://www.wclimb.site/2017/07/12/Node-Koa2-Mysql-搭建简易博客/@247@7
 其它#Mysql性能调优与测试@https://juejin.im/entry/59eee654f265da432a7ac432@101@0
 锁#MySQL 中的读锁和写锁@https://juejin.im/entry/5829419bd203090054ff6c3c@88@0
 优化#Mysql查询性能优化的心得@http://blog.csdn.net/killuazoldyck/article/details/77503318@175@3
-其它#PHP并发查询MySQL@https://jiachuhuang.github.io/2017/08/08/PHP并发查询MySQL/@63@1
 其它#Mysql B+树学习@https://juejin.im/post/59bf5cf65188252f92381fe5@63@0
+其它#PHP并发查询MySQL@https://jiachuhuang.github.io/2017/08/08/PHP并发查询MySQL/@63@1
 其它#Nodejs 学习：连接 MySQL 数据库@http://xieyufei.com/2016/11/15/Nodejs-Connect-Mysql.html@159@3
-索引#Mysql 索引知识点@https://juejin.im/post/59c2721851882525ed2b38a1@83@2
+其它#Mysql分表的3种方法@https://juejin.im/entry/5a3b62b96fb9a0450a6783d6@97@1
 其它#Mysql 分库分表实践@https://juejin.im/entry/590ed99161ff4b00624d9cd9@93@0
 优化#索引#MySQL——索引优化实战@https://juejin.im/post/5b68e3636fb9a04fd343ba99@94@9
-其它#Mysql分表的3种方法@https://juejin.im/entry/5a3b62b96fb9a0450a6783d6@97@1
+索引#Mysql 索引知识点@https://juejin.im/post/59c2721851882525ed2b38a1@83@2
 索引#MySQL探索(一):B-Tree索引@https://juejin.im/post/5b5c2096f265da0f65239483@148@5
 锁#事务#深入理解Mysql——锁、事务与并发控制@https://juejin.im/post/5b977e56e51d450e9c553cef@269@2
 其它#MySQL 读写分离介绍及搭建@https://juejin.im/entry/5721548edf0eea0062ca5cb3@151@3
 其它#MySQL性能调优技巧@https://juejin.im/entry/5a27ad3a6fb9a045030ff676@84@0
 其它#MySQL复制以及调优@https://juejin.im/entry/5a6ad5c051882573410824f0@60@0
 锁#mysql 悲观锁详解@https://juejin.im/entry/576b35e379bc44005bd9902d@76@0
-优化#MySQL 查询性能优化@https://juejin.im/entry/591d19ed44d904006c952c77@85@4
 其它#Mysql 使用命令及 sql 语句示例@https://juejin.im/entry/57ff5a23d203090068f70df2@173@9
-索引#MySQL 表与索引设计攻略@https://juejin.im/post/5b207b026fb9a01e2b2cc8a0@158@0
+优化#MySQL 查询性能优化@https://juejin.im/entry/591d19ed44d904006c952c77@85@4
 锁#MySQL 锁总结@https://juejin.im/entry/58f475bcb123db632b4167ce@43@0
+索引#MySQL 表与索引设计攻略@https://juejin.im/post/5b207b026fb9a01e2b2cc8a0@159@0
 其它#MySQL系列-- 5. MySQL高级特性@https://juejin.im/post/59ec554c5188255b5b2acd51@40@3
 其它#初探 MySQL 的 Binlog@https://xcoder.in/2015/08/10/mysql-binlog-try/@46@1
 其它#十个实用MySQL函数@https://juejin.im/entry/5a4c4d60f265da430f327cb3@73@0
 其它#MySQL——通过EXPLAIN分析SQL的执行计划@https://juejin.im/post/5b63ac5d5188251b1e1fea0f@135@1
-其它#MySQL探秘(二)：SQL语句执行过程详解@https://juejin.im/post/5b7036de6fb9a009c40997eb@203@0
-其它#MySQL——约束@https://juejin.im/entry/5914244c570c350069260ef6@39@0
-其它#MySQL基础@https://juejin.im/post/5c62cc3b6fb9a049b2225c7c@39@3
-其它#mysql count 多个表数据@https://juejin.im/entry/580ed595d20309006594abfe@79@17
+其它#MySQL探秘(二)：SQL语句执行过程详解@https://juejin.im/post/5b7036de6fb9a009c40997eb@204@0
 其它#SQL 语法 MySQL 数据库@https://juejin.im/entry/591427a22f301e006b861726@149@0
-其它#mysql协议@https://juejin.im/post/5aaf0c3b518825557f00b68e@36@0
 其它#MySQL入门教程系列－1.5 如何学习MySQL@https://juejin.im/post/57eb45c567f3560057b39fe0@50@6
-其它#浅析 MySQL Replication@https://juejin.im/entry/58da7cd21b69e6006bc81da6@46@1
-其它#Mysql 主从同步的原理@https://juejin.im/entry/58e5afb2b123db15eb80f74b@69@0
 其它#MySQL在并发场景下的问题及解决思路@https://juejin.im/entry/5aec247c6fb9a07aa7678841@141@1
+其它#浅析 MySQL Replication@https://juejin.im/entry/58da7cd21b69e6006bc81da6@46@1
+其它#mysql count 多个表数据@https://juejin.im/entry/580ed595d20309006594abfe@79@17
+其它#Mysql 主从同步的原理@https://juejin.im/entry/58e5afb2b123db15eb80f74b@69@0
 其它#MySQL 设计架构@https://juejin.im/entry/591d0e3ba0bb9f005f1db189@48@0
-其它#Spring Boot 2.0(五)：Docker Compose + Spring Boot + Nginx + Mysql 实践@https://juejin.im/post/5abae536f265da239b4178f0@160@3
 优化#我必须得告诉大家的 MySQL 优化原理@https://juejin.im/entry/590427815c497d005832dab9@239@6
 其它#【干货】MySQL数据库开发规范@https://juejin.im/post/5c15c2b3f265da6170070613@209@17
-其它#MySQL 慢查询日志——让“慢”无所遁形@https://juejin.im/post/58e7415e570c350057c59450@113@4
+其它#Spring Boot 2.0(五)：Docker Compose + Spring Boot + Nginx + Mysql 实践@https://juejin.im/post/5abae536f265da239b4178f0@160@3
 其它#MySQL 读写分离实战@https://juejin.im/entry/58f9a83761ff4b006652209d@71@0
-其它#程序猿都该知道的 MySQL 秘籍@https://juejin.im/entry/573a76ec1ea4930060fbbd4e@148@1
 其它#MySQL5.7 JSON 实现简介@https://juejin.im/entry/5837a53161ff4b006b406ab3@70@2
-其它#MySQL 线程池内幕@https://juejin.im/entry/58739b91128fe100582d317d@61@0
+其它#程序猿都该知道的 MySQL 秘籍@https://juejin.im/entry/573a76ec1ea4930060fbbd4e@148@1
+其它#MySQL 慢查询日志——让“慢”无所遁形@https://juejin.im/post/58e7415e570c350057c59450@113@4
 其它#【高性能MySQL】第一章MySQL架构与历史@https://juejin.im/entry/5b640d87e51d4519700f965b@47@0
-其它#MySQL 数据库设计总结@https://juejin.im/entry/583d42ee67f356006bb879e6@110@0
+锁#惊！史上最全的select加锁分析(Mysql)@https://juejin.im/post/5d5671a2e51d45620821cea7@146@13
 索引#MySQL 笔记 - 索引类型@https://juejin.im/post/5b66df616fb9a04fcd5875f8@74@10
-其它#Mysql百万级数据迁移实战笔记@https://juejin.im/post/5b377aa45188254dd52f40d7@204@24
-面试#推荐收藏！MySQL重要知识点/面试题总结。@https://juejin.im/post/5d1758d06fb9a07eed351405@389@13
 其它#MySQL 线程池内幕@https://juejin.im/entry/58739b91128fe100582d317d@61@0
-其它#MySQL 快速创建千万级测试数据@https://juejin.im/post/5ce372c36fb9a07ef63fb191@218@53
+其它#高效 MySQL 的 N 个习惯@https://juejin.im/entry/58fc3e7f5c497d0058fd1f58@66@0
+其它#MySQL 线程池内幕@https://juejin.im/entry/58739b91128fe100582d317d@61@0
+其它#Mysql百万级数据迁移实战笔记@https://juejin.im/post/5b377aa45188254dd52f40d7@204@24
+其它#MySQL 快速创建千万级测试数据@https://juejin.im/post/5ce372c36fb9a07ef63fb191@220@53
 锁#Mysql加锁与实践@https://juejin.im/post/5bc8460ce51d450e4714675d@45@4
-其它#MySQL探秘(三):InnoDB的内存结构和特性@https://juejin.im/post/5b82b62e6fb9a019d80a9709@121@0
 其它#MySQL 数据库设计总结@https://juejin.im/entry/583d42ee67f356006bb879e6@110@0
 其它#让 MySQL 支持 emoji 图标存储@https://juejin.im/entry/57b1ea5f8ac247005f199afc@117@0
-其它#MySQL Binlog 介绍@https://juejin.im/post/5c85cecb6fb9a049fb447c82@35@1
-引擎#锁#事务#库存-Mysql中的事务、锁与存储引擎@https://juejin.im/post/5850fb73b123db00655445e7@130@0
-其它#MySQL JSON数据类型操作@https://juejin.im/post/59e4bb1151882578d224a87e@107@3
+其它#MySQL探秘(三):InnoDB的内存结构和特性@https://juejin.im/post/5b82b62e6fb9a019d80a9709@121@0
 索引#MySQL 实战 - 关于索引的主要事项@https://juejin.im/entry/57fb09612e958a00559112eb@117@6
+引擎#锁#事务#库存-Mysql中的事务、锁与存储引擎@https://juejin.im/post/5850fb73b123db00655445e7@130@0
 其它#同步 MySQL 数据到 Elasticsearch@https://juejin.im/entry/58f827d78d6d8100587591c9@59@0
-其它#重学MySQL系列(一)：谈谈MySQL架构@https://juejin.im/post/5d74f7db6fb9a06ae7642c2a@33@1
+其它#MySQL JSON数据类型操作@https://juejin.im/post/59e4bb1151882578d224a87e@107@3
 其它#MySQL 慢查询日志收集@https://juejin.im/entry/57bfed157db2a20068eea066@105@0
 优化#索引#MySQL的索引是什么？怎么优化？@https://juejin.im/entry/5ac2f69e518825557459e259@100@2
 其它#『浅入浅出』MySQL 和 InnoDB@https://juejin.im/entry/5c40449ef265da61530504cb@40@1
-锁#mysql 死锁问题分析@https://juejin.im/entry/57e7685abf22ec00586ed574@66@2
 优化#索引#MySQL 索引及查询优化总结@https://juejin.im/post/5c2c8dace51d455d382ee046@95@4
-其它#五大常见的 MySQL 高可用方案@https://zhuanlan.zhihu.com/p/25960208@107@0
-索引#MySql(一) 浅析MySql索引@https://juejin.im/post/5aa0040f6fb9a028b86d9357@23@1
-其它#五大常见的 MySQL 高可用方案@https://zhuanlan.zhihu.com/p/25960208@107@0
+锁#mysql 死锁问题分析@https://juejin.im/entry/57e7685abf22ec00586ed574@66@2
+其它#『浅入浅出』MySQL 和 InnoDB@https://juejin.im/entry/59892a4cf265da3e161a8d71@42@0
 其它#MySQL 性能调优技巧@https://juejin.im/entry/5a31ea98f265da432b4ad527@55@0
-锁#mysql中 insert、update、delete锁@https://github.com/zhuangjiesen/reading-learning-coding/blob/master/mysql/mysql中 insert、update、delete锁.md@44@1
-其它#Mysql - JOIN 详解@https://juejin.im/entry/5b4d5a6c5188251b20017717@33@0
+其它#五大常见的 MySQL 高可用方案@https://zhuanlan.zhihu.com/p/25960208@107@0
 优化#我在项目中对 MySQL 做的优化@https://juejin.im/post/598bcc69f265da3e22053e11@91@4
-其它#一次模拟简单秒杀场景的实践 Docker + Nodejs + Kafka + Redis + MySQL@https://juejin.im/entry/58875fe8128fe1006c497c74@420@1
-锁#mysql 乐观锁详解@https://juejin.im/entry/57691ebe6be3ff006a439d89@56@0
-优化#索引#「MySQL」高性能索引优化策略@https://juejin.im/post/5c7a8f2e6fb9a049cd54e8ff@95@2
-其它#MySQL 或 SQL 基础知识@http://blog.percymong.com/2017/04/09/mysql-base-knowledge/@50@0
-其它#MySQL高级@https://juejin.im/post/5cf3f8b6f265da1bc94ed736@28@4
-优化#MYSQL 数据库常见的优化操作@http://huihui.kim/2017/04/20/%E6%80%BB%E7%BB%93%E5%B8%B8%E8%A7%81MYSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BC%98%E5%8C%96%E6%93%8D%E4%BD%9C/@170@4
-优化#MySQL Optimization 优化原理@https://juejin.im/entry/5ab9e83251882555627d4e36@52@0
+锁#mysql中 insert、update、delete锁@https://github.com/zhuangjiesen/reading-learning-coding/blob/master/mysql/mysql中 insert、update、delete锁.md@44@1
 其它#MySQL 的实时性能监控利器@https://juejin.im/entry/58d26ff161ff4b0060452ef9@100@0
+锁#mysql 乐观锁详解@https://juejin.im/entry/57691ebe6be3ff006a439d89@56@0
+其它#MySQL 或 SQL 基础知识@http://blog.percymong.com/2017/04/09/mysql-base-knowledge/@50@0
+优化#索引#「MySQL」高性能索引优化策略@https://juejin.im/post/5c7a8f2e6fb9a049cd54e8ff@95@2
+优化#MySQL Optimization 优化原理@https://juejin.im/entry/5ab9e83251882555627d4e36@52@0
+优化#MYSQL 数据库常见的优化操作@http://huihui.kim/2017/04/20/%E6%80%BB%E7%BB%93%E5%B8%B8%E8%A7%81MYSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BC%98%E5%8C%96%E6%93%8D%E4%BD%9C/@170@4
+事务#MySQL 四种事务隔离级的说明@https://juejin.im/entry/57bfe290165abd00664daca3@87@0
 其它#你知道MySQL的Limit有性能问题吗@https://juejin.im/post/5cd2d57951882540d928c2be@149@30
 事务#Mysql 事务的隔离级别@https://juejin.im/entry/57b3da075bbb500063f7b18b@92@1
 面试#关于MySQL的知识点与面试常见问题都在这里@https://juejin.im/post/5b24cf7e51882574c020bd56@320@10
-事务#MySQL 四种事务隔离级的说明@https://juejin.im/entry/57bfe290165abd00664daca3@87@0
 优化#MySQL 性能优化神器 Explain 使用分析@https://juejin.im/entry/5ad703916fb9a028d375ef66@150@2
-其它#必须懂的mysql知识@https://juejin.im/post/5c24ef236fb9a049ca3769eb@45@5
+其它#必须懂的mysql知识@https://juejin.im/post/5c24ef236fb9a049ca3769eb@46@5
 其它#MySQL 不重复插入@https://juejin.im/entry/59212edd2f301e006b0b276f@51@0
+优化#MySQL——优化嵌套查询和分页查询@https://juejin.im/post/5bda4a966fb9a022852a74e0@87@10
 锁#Mysql锁机制分析@https://juejin.im/entry/5afd1897518825429d1f8173@44@1
 其它#MySQL 如何存储大数据@https://github.com/zhangyachen/zhangyachen.github.io/issues/96@75@0
-索引#MySQL索引原理@https://juejin.im/post/5d39b9b9e51d45777540fea9@36@0
-事务#『浅入深出』MySQL 中事务的实现@http://draveness.me/mysql-transaction.html@80@0
-优化#MySQL 优化@https://juejin.im/entry/5c01f109e51d453b7b7bbab0@24@0
-优化#MySQL——优化嵌套查询和分页查询@https://juejin.im/post/5bda4a966fb9a022852a74e0@87@10
-其它#mysql 通信协议@http://blog.csdn.net/wangyangzhizhou/article/details/54897525@42@0
 优化#索引#MySQL运维：索引与查询性能优化@https://juejin.im/entry/5b444bf05188251a8d36d034@77@0
-优化#索引#Mysql索引与优化@http://codedi.cn/mysql-index-youhua/@32@0
-其它#MySQL查询成本和范围区间@https://juejin.im/post/5d5f4b3a51882540b16f35be@77@1
-其它#Mysql 数据库主从心得整理@https://juejin.im/entry/592287ae128fe1005c2e4f6c@70@0
+事务#『浅入深出』MySQL 中事务的实现@http://draveness.me/mysql-transaction.html@80@0
 事务#MySQL事务隔离级别和MVCC@https://juejin.im/post/5c9b1b7df265da60e21c0b57@79@20
 索引#mysql 索引的数据结构@https://juejin.im/entry/59198944a22b9d0058266551@76@1
-优化#MySQL架构的优化@https://juejin.im/post/5a040cfef265da432c234d2d@32@1
-其它#Awesome MySQL@https://juejin.im/entry/5559faa4e4b0b99f6d25f663@20@0
-其它#MySQL 的架构演化@https://juejin.im/entry/58fda30144d9040069ede0d0@31@0
-其它#MySQL 数据类型@https://juejin.im/entry/585b23a8ac502e0067156fba@39@0
-其它#MHA+MySQL主从配置实现MySQL高可用@https://juejin.im/post/5b444908f265da0f9155f3d2@24@0
+其它#mysql 通信协议@http://blog.csdn.net/wangyangzhizhou/article/details/54897525@42@0
+其它#MySQL查询成本和范围区间@https://juejin.im/post/5d5f4b3a51882540b16f35be@77@1
 其它#MySQL太慢？试试这些诊断思路和工具@https://juejin.im/entry/5bac3addf265da0af93b08ae@111@2
-其它#Awesome MySQL@https://juejin.im/entry/5559faa4e4b0b99f6d25f663@20@0
+其它#Mysql 数据库主从心得整理@https://juejin.im/entry/592287ae128fe1005c2e4f6c@70@0
+其它# Python 连接 MySQL 的几种姿势@https://juejin.im/post/5a26ab82f265da430d57df8b@72@0
+其它#记住，永远不要在MySQL中使用“utf8”@https://juejin.im/entry/5b3055046fb9a00e315c2849@129@8
+其它#用vue全家桶+koa2+soket.io +mysql写一个聊天应用@https://juejin.im/post/5a979b055188257a58512037@277@25
+优化#索引#Mysql 索引优化分析@https://juejin.im/entry/5a4de13351882512d8232174@72@0
 其它#10_Node js 连接 MySQL 与 MongoDB@https://juejin.im/post/5c676ba6e51d45209a1c91fa@42@2
-其它#MySQL 的架构演化@https://juejin.im/entry/58fda30144d9040069ede0d0@31@0
-其它#Redis：MySQL算老几？@https://juejin.im/entry/5bed64c2e51d45787a4bc1d6@30@3
-其它#MySQL 数据类型@https://juejin.im/entry/585b23a8ac502e0067156fba@39@0
-其它#MHA+MySQL主从配置实现MySQL高可用@https://juejin.im/post/5b444908f265da0f9155f3d2@24@0
 其它#MySQL 日常使用手札@https://juejin.im/entry/575548fa2e958a006a7584d8@74@0
 索引#MySQL 索引原理及设计@https://juejin.im/entry/5c3dc87fe51d452b19793d1b@46@3
-其它#MySQL指南之SQL语句基础@https://juejin.im/post/5c8e2363f265da67ea4bda60@70@4
-其它#详细解读阿里手册之MySQL@https://juejin.im/post/5c8bb168f265da2da23d73f0@70@0
-其它#node+koa2+mysql搭建博客后台@https://juejin.im/post/5abf83dbf265da239f0780cd@70@2
 其它#一次mysql order by desc 慢的排查@https://juejin.im/post/5d12f295f265da1bc14b3818@40@11
-其它#MySQL 读写分离介绍及搭建@https://juejin.im/entry/57207f83d9e84c006b154470@65@0
+其它#node+koa2+mysql搭建博客后台@https://juejin.im/post/5abf83dbf265da239f0780cd@71@2
+其它#MySQL指南之SQL语句基础@https://juejin.im/post/5c8e2363f265da67ea4bda60@71@4
+其它#详细解读阿里手册之MySQL@https://juejin.im/post/5c8bb168f265da2da23d73f0@70@0
 优化#索引#浅谈MySQL的B树索引与索引优化@https://juejin.im/post/5ab857675188255570060069@80@1
-面试#互联网公司面试必问的mysql题目(上)@https://juejin.im/post/5baafdccf265da0af93b05e4@119@4
 锁#事务#MySQL 事务、锁、SQLMode、分区@https://juejin.im/entry/58f9a8f31b69e6005884c9a6@41@0
+面试#互联网公司面试必问的mysql题目(上)@https://juejin.im/post/5baafdccf265da0af93b05e4@119@4
 其它#如何从 MongoDB 迁移到 MySQL@https://juejin.im/entry/59e6a71251882546b15b9775@44@0
-其它#MySQL 性能调优的 10 个方法@https://juejin.im/entry/59196864a0bb9f005ff7a9c4@67@0
-其它#MyFlash——美团点评的开源MySQL闪回工具@https://juejin.im/post/5a0e8dcef265da43265269c2@64@0
-索引#MySQL——索引基础@https://juejin.im/post/5b68e2765188251ac22b7205@29@0
-其它#Mysql 学习笔记 - 基础概念@https://juejin.im/entry/58772b5f61ff4b0065de8d3a@64@0
+其它#MySQL 读写分离介绍及搭建@https://juejin.im/entry/57207f83d9e84c006b154470@65@0
 其它#MySQL 实现主从复制@https://juejin.im/entry/5aa620f5f265da238440396a@42@1
-其它#Node.js+Mysql+Vue+ElementUI 实现登录注册注销功能@https://juejin.im/post/5acbeeb7f265da23a049df8a@199@23
+其它#MySQL 性能调优的 10 个方法@https://juejin.im/entry/59196864a0bb9f005ff7a9c4@67@0
+其它#MySQL 实现主从复制@https://juejin.im/entry/5aa620f5f265da238440396a@42@1
 其它#“王者对战”之 MySQL 8 vs PostgreSQL 10@https://juejin.im/entry/5b14f3476fb9a01e49293bb1@63@1
-其它#微店 MySQL 自动化运维实践@https://juejin.im/entry/585398bd8e450a006c548252@65@0
-其它#Mac配置MySQL以及Squel Pro@https://juejin.im/post/59f191ff6fb9a0451049b6b8@37@0
+其它#MyFlash——美团点评的开源MySQL闪回工具@https://juejin.im/post/5a0e8dcef265da43265269c2@64@0
+其它#Node.js+Mysql+Vue+ElementUI 实现登录注册注销功能@https://juejin.im/post/5acbeeb7f265da23a049df8a@200@25
 其它#MySQL主从复制原理探索@http://www.hoohack.me/2017/07/11/learning-mysql-replication-detail@64@0
-其它#大型网站应用中 MySQL 的架构演变史@https://juejin.im/entry/5794bf9e5bbb500063da1dbe@88@0
-索引#理解索引：MySQL执行计划详细介绍@https://juejin.im/post/5b1243eff265da6e0b6ff277@160@2
-面试#索引#我以为我对Mysql索引很了解，直到我遇到了阿里的面试官@https://juejin.im/post/5d23ef4ce51d45572c0600bc@517@43
-其它#(18)mysql 中的分区（开发篇完）@https://juejin.im/post/58820c6b128fe1006c2aeea6@58@1
-索引#MySQL——索引实现原理@https://juejin.im/post/5bd7a97de51d45400d5d7b18@37@0
 优化#MySQL 百万级数据分页优化@https://juejin.im/entry/5865c81fac502e006d5e72de@57@6
-其它#MySQL binlog 格式解析@https://juejin.im/entry/5916e289a0bb9f005fe313c0@37@0
-优化#MySQL 内核深度优化@https://juejin.im/entry/583bd511128fe1006abe0c8c@34@0
+其它#微店 MySQL 自动化运维实践@https://juejin.im/entry/585398bd8e450a006c548252@65@0
+面试#索引#我以为我对Mysql索引很了解，直到我遇到了阿里的面试官@https://juejin.im/post/5d23ef4ce51d45572c0600bc@517@43
 其它#网易严选商城小程序全栈开发,域名备案中近期上线(mpvue+koa2+mysql)@https://juejin.im/post/5b6323baf265da0f5511533a@709@70
-优化#索引#MySQL 索引及查询优化总结@https://juejin.im/entry/590a973561ff4b00698921b8@57@1
-其它#MySQL 5.7 MGR 集群搭建@https://juejin.im/entry/5a13ce236fb9a04506713eca@35@0
-其它#MySQL 分库分表方案，总结的非常好！@https://juejin.im/entry/5b5eb7f2e51d4519700f7d3c@102@5
-锁#对mysql乐观锁、悲观锁、共享锁、排它锁、行锁、表锁概念的理解@https://juejin.im/entry/5b5abebb6fb9a04f8b786b39@223@4
+其它#大型网站应用中 MySQL 的架构演变史@https://juejin.im/entry/5794bf9e5bbb500063da1dbe@88@0
 其它#(18)mysql 中的分区（开发篇完）@https://juejin.im/post/58820c6b128fe1006c2aeea6@58@1
-优化#我必须得告诉大家的 MySQL 优化原理@https://juejin.im/entry/5b3dd087f265da0f4c6f9bf8@92@1
+其它#一条SQL语句在MySQL中是如何执行的@https://juejin.im/post/5c91b5d7e51d456f957ebd10@78@11
+优化#索引#MySQL 索引及查询优化总结@https://juejin.im/entry/590a973561ff4b00698921b8@57@1
+索引#理解索引：MySQL执行计划详细介绍@https://juejin.im/post/5b1243eff265da6e0b6ff277@160@2
+锁#对mysql乐观锁、悲观锁、共享锁、排它锁、行锁、表锁概念的理解@https://juejin.im/entry/5b5abebb6fb9a04f8b786b39@223@4
+面试#史上最详细的一线大厂Mysql面试题详解@https://juejin.im/post/5cb6c4ef51882532b70e6ff0@205@15
 索引#理解索引：MySQL执行计划详细介绍@https://juejin.im/post/5b1243eff265da6e0b6ff277@160@2
 索引#MySQL索引专题一 认识索引@https://juejin.im/entry/59840a2ef265da3e2e56f3e1@55@0
-锁#MySQL 的锁@https://juejin.im/post/5d7f8cede51d4561fd6cb58f@16@4
-其它#一个简单express+jade+mysql+bootstrap+nodejs的demo@https://juejin.im/post/5acec2d06fb9a028d9378805@65@3
-其它#使用 Docker 完成 MySQL 数据库主从配置@https://juejin.im/post/59fd71c25188254dfa1287a9@96@1
 其它#MySQL 闪回原理与实战@https://github.com/danfengcao/binlog2sql/blob/master/example/mysql-flashback-priciple-and-practice.md@55@0
-其它#CentOS 7.2 之 MySQL 到 MariaDB 的迁移@https://www.yhspy.com/blog/212@33@2
-其它#MySQL 5.7 新时代@https://juejin.im/post/595dca74f265da6c21535d21@23@2
+其它#使用 Docker 完成 MySQL 数据库主从配置@https://juejin.im/post/59fd71c25188254dfa1287a9@96@1
 其它#MySQL 分库分表方案，总结的非常好！@https://juejin.im/entry/5b5eb7f2e51d4519700f7d3c@102@5
 引擎#MySQL 常用数据存储引擎区别@https://juejin.im/post/58d482e844d904006929aaff@83@1
-其它#(8)mysql 中的视图@https://juejin.im/post/587f58742f301e0057acfb73@26@0
-引擎#MySQL · 引擎特性 · InnoDB Buffer Pool@https://juejin.im/entry/59f7e995518825569538f149@37@1
+其它#一个简单express+jade+mysql+bootstrap+nodejs的demo@https://juejin.im/post/5acec2d06fb9a028d9378805@65@3
+优化#MySQL的SQL性能优化总结@https://juejin.im/post/5c67aaf7e51d45362c36229d@50@4
 锁#MySQL数据库的锁机制@https://juejin.im/entry/5a4b2e7ef265da431a438e4a@56@0
 其它#MySQL 备份和恢复机制@https://juejin.im/entry/5a0aa2026fb9a045132a369f@56@0
-优化#MySQL的SQL性能优化总结@https://juejin.im/post/5c67aaf7e51d45362c36229d@50@4
-其它#MySQL 入门教程【一件伟大的事情正在发生中】@https://github.com/jaywcjlove/mysql-tutorial/blob/master/README.md@171@11
 其它#Mysql 学习笔记 - 数据类型@https://juejin.im/entry/58772b895c497d005886f919@52@0
-事务#索引#解读mysql的索引和事务的正确姿势@https://juejin.im/post/5c20dba7f265da612b139cd0@52@3
-锁#mysql共享锁与排他锁@https://juejin.im/entry/5b63d9056fb9a04fcb5b7ff9@30@5
-其它#MySQL5.7 安全操作@https://juejin.im/entry/5a2655b46fb9a045204c1298@29@0
-事务#索引#解读mysql的索引和事务的正确姿势@https://juejin.im/post/5c20dba7f265da612b139cd0@52@3
-其它#Node 连接 MySQL 遇到的坑以及踩坑总结@https://segmentfault.com/a/1190000009676923@59@1
-面试#[灵魂拷问]MySQL面试高频一百问(工程师方向)@https://juejin.im/post/5d351303f265da1bd30596f9@158@13
-优化#MySQL系列-- 4. 查询性能优化@https://juejin.im/post/59ec54f451882567aa5a8066@53@1
+其它#MySQL 入门教程【一件伟大的事情正在发生中】@https://github.com/jaywcjlove/mysql-tutorial/blob/master/README.md@171@11
+其它#MySQL 数据库设计总结@https://juejin.im/post/5c85d9ebf265da2dcb67b808@55@4
 其它#实战-MySQL定时增量备份（2）@https://juejin.im/post/5b63dfad5188251af86c09da@53@0
 其它#【从零开始学习 MySql 数据库】(2) 函数@https://juejin.im/post/5853f94a1b69e60056cde850@91@1
+其它#Mysql 学习笔记 - 数据类型@https://juejin.im/entry/58772b895c497d005886f919@52@0
 其它#Docker Compose搭建MySQL主从复制集群@https://juejin.im/post/5b3a24dde51d4555b3360253@52@3
-其它#分享一下 vue + koa + mysql 搭建博客之旅@https://juejin.im/post/5afd0d18f265da0b9265caf0@88@17
-其它#mysql 中的explain关键字@https://juejin.im/post/5bc6f968e51d450e77632ea2@31@0
+优化#MySQL系列-- 4. 查询性能优化@https://juejin.im/post/59ec54f451882567aa5a8066@53@1
+面试#[灵魂拷问]MySQL面试高频一百问(工程师方向)@https://juejin.im/post/5d351303f265da1bd30596f9@159@13
+其它#Node 连接 MySQL 遇到的坑以及踩坑总结@https://segmentfault.com/a/1190000009676923@59@1
 索引#MySQL 索引性能分析概要@http://draveness.me/sql-index-performance.html@51@0
-索引#MySQL索引为什么要用B+树实现？@https://juejin.im/entry/5bc1ea0a5188255c2f424209@76@2
+其它#分享一下 vue + koa + mysql 搭建博客之旅@https://juejin.im/post/5afd0d18f265da0b9265caf0@88@17
 事务#Mysql事务实现原理@https://juejin.im/post/5cb2e3b46fb9a0686e40c5cb@52@11
-其它#MySQL 【去重留一】一条sql语句完成 思路总结@https://juejin.im/entry/5a250d7151882560e35678c4@146@3
-其它#开源 react + koa + mysql 设计的简约风格的个人博客@https://juejin.im/post/5c722ac9e51d450b95636a97@164@78
-其它#【译】MySQL挑战：建立10万连接@https://juejin.im/post/5c83cf6c5188257deb5c8586@45@6
 优化#京东 MySQL 监控之 Zabbix 优化、自动化@https://juejin.im/entry/57a1577c6be3ff006505785c@75@0
+其它#开源 react + koa + mysql 设计的简约风格的个人博客@https://juejin.im/post/5c722ac9e51d450b95636a97@164@78
+其它#PWA之推送服务器（koa2+mysql+pm2）@https://juejin.im/post/5aa0ffa5f265da23a04921e8@80@9
+其它#MySQL 【去重留一】一条sql语句完成 思路总结@https://juejin.im/entry/5a250d7151882560e35678c4@146@3
+索引#MySQL索引为什么要用B+树实现？@https://juejin.im/entry/5bc1ea0a5188255c2f424209@76@2
+其它#【译】MySQL挑战：建立10万连接@https://juejin.im/post/5c83cf6c5188257deb5c8586@46@6
 其它#高性能 MySQL 笔记(1)@https://juejin.im/entry/59c4ef975188254f5d174992@45@0
-锁#事务#(16)mysql 中的表锁定及事务控制@https://juejin.im/post/58820b4f128fe10065d3d389@46@4
-锁#事务#(16)mysql 中的表锁定及事务控制@https://juejin.im/post/58820b4f128fe10065d3d389@46@4
-锁#记一次神奇的Mysql死锁排查@https://juejin.im/post/5c774114f265da2d993d9908@46@18
-优化#MySQL——优化ORDER BY语句@https://juejin.im/post/5bd8faf16fb9a05ce172a228@31@0
-其它#基于 MySQL Binlog 的 Elasticsearch 数据同步实践@https://juejin.im/post/5d2be51e5188252c784a3b8c@48@1
 其它#MySQL order by limit 分页数据重复问题@https://juejin.im/post/5af9537bf265da0b9e652dea@48@2
+索引#MySQL索引为什么要用B+树实现？@https://juejin.im/entry/5bc1ea0a5188255c2f424209@76@2
+其它#【译】MySQL挑战：建立10万连接@https://juejin.im/post/5c83cf6c5188257deb5c8586@46@6
+索引#mysql高性能索引的探索@http://blog.csdn.net/killuazoldyck/article/details/73656852@49@0
 其它#【从零开始学习 MySql 数据库】(1) 建表与简单查询@https://juejin.im/post/5853f85061ff4b00684d8634@189@5
 其它#MySQL分布式集群搭建@https://juejin.im/entry/599b73425188251240631d7c@46@0
-锁#事务#索引#MySql 三大知识点——索引、锁、事务！@https://juejin.im/post/5c94716df265da60f30d4aac@51@2
-索引#mysql高性能索引的探索@http://blog.csdn.net/killuazoldyck/article/details/73656852@49@0
-其它#MySQL 慢查询 & 分析 SQL 执行效率浅谈@https://juejin.im/entry/58f9e4c70ce46300611b8974@66@0
-面试#索引#深入理解mysql 索引特性(面试高频,屡试不爽的mysql索引总结)@https://juejin.im/post/5d4e7f496fb9a06afe128655@48@17
 其它#Redis和mysql数据怎么保持数据一致的？@https://juejin.im/post/5c96fb795188252d5f0fdff2@68@7
-其它#MySQL-InnoDB-MVCC多版本并发控制@https://juejin.im/entry/5a4b52eef265da431120954b@48@2
-索引#(7)mysql 索引的设计和使用@https://juejin.im/post/587f57e88d6d810058a3f01b@27@2
-其它#MySQL的主从复制@https://juejin.im/entry/5bff520d6fb9a049e55356bd@22@0
-锁#事务#MySQL 事务与锁（二）：锁的应用 - MySQL 悲观锁乐观锁、基于 Redis 的分布式锁@https://juejin.im/entry/5ae92c9d5188256717761b18@59@0
-锁#浅析MySQL二段锁@https://juejin.im/entry/5a3b2b3c5188252b145b35c7@27@0
-索引#MySQL索引那些事@https://juejin.im/post/5c9f1707e51d45467a0e9ce4@27@0
+锁#事务#索引#MySql 三大知识点——索引、锁、事务！@https://juejin.im/post/5c94716df265da60f30d4aac@51@2
+锁#事务#(16)mysql 中的表锁定及事务控制@https://juejin.im/post/58820b4f128fe10065d3d389@46@4
+其它#MySQL 慢查询 & 分析 SQL 执行效率浅谈@https://juejin.im/entry/58f9e4c70ce46300611b8974@66@0
 优化#中国移动 MySQL 数据库优化最佳实践@https://juejin.im/entry/590adf9e61ff4b00698bddcf@111@1
-其它#关于Python 操作 MySQL ，这才是正确姿势@https://juejin.im/entry/5ac32368f265da23750715b2@70@6
-锁#记录一次 Mysql 死锁排查过程@https://juejin.im/post/58a9562a128fe1006cc68304@64@1
-其它#关于Python 操作 MySQL ，这才是正确姿势@https://juejin.im/entry/5ac32368f265da23750715b2@70@6
-其它#Python 操作 MySQL 的正确姿势@https://juejin.im/entry/58fdaec7da2f60005dcb2b5b@41@1
-其它#温习一下MySQL：创建、授权、查询、修改等等@https://juejin.im/entry/597806ac51882558bc628cc0@62@0
-事务#MySQL Innodb 事务隔离级别@https://juejin.im/entry/590d8aa944d904007bdd2861@45@1
+其它#MySQL-InnoDB-MVCC多版本并发控制@https://juejin.im/entry/5a4b52eef265da431120954b@48@2
+锁#事务#MySQL 事务与锁（二）：锁的应用 - MySQL 悲观锁乐观锁、基于 Redis 的分布式锁@https://juejin.im/entry/5ae92c9d5188256717761b18@59@0
 事务#『浅入深出』MySQL 中事务的实现@https://toutiao.io/k/v4fhhy@44@0
-其它#彻底终结MySQL同步延迟问题@https://juejin.im/entry/5a73d1f55188257a780d8518@43@0
-其它#实战GraphQL+express+mysql项目完整demo@https://juejin.im/post/5aaf8672f265da2396123140@46@5
+其它#Python 操作 MySQL 的正确姿势@https://juejin.im/entry/58fdaec7da2f60005dcb2b5b@41@1
+优化#中国移动 MySQL 数据库优化最佳实践@https://juejin.im/entry/590adf9e61ff4b00698bddcf@111@1
 事务#MySQL运维系列 之 如何监控大事务@https://juejin.im/entry/5b334edbe51d45588a7dd1b3@75@0
 其它#MySQL 如何在主从模式之间自由应变@https://juejin.im/entry/5860dc3661ff4b006ce86613@65@2
-其它#MySQL探秘(四):InnoDB的磁盘文件及落盘机制@https://juejin.im/post/5b94884af265da0ae74f60d3@68@1
-其它#Mysql常见错误码讲解@http://www.bugcode.cn/mysqlerrorcodes.html@40@0
+事务#MySQL Innodb 事务隔离级别@https://juejin.im/entry/590d8aa944d904007bdd2861@45@1
+其它#Python 操作 MySQL 的正确姿势@https://juejin.im/entry/58fdaec7da2f60005dcb2b5b@41@1
+其它#温习一下MySQL：创建、授权、查询、修改等等@https://juejin.im/entry/597806ac51882558bc628cc0@62@0
+其它#彻底终结MySQL同步延迟问题@https://juejin.im/entry/5a73d1f55188257a780d8518@43@0
+事务#『浅入深出』MySQL 中事务的实现@https://toutiao.io/k/v4fhhy@44@0
+其它#实战GraphQL+express+mysql项目完整demo@https://juejin.im/post/5aaf8672f265da2396123140@46@5
+锁#记录一次 Mysql 死锁排查过程@https://juejin.im/post/58a9562a128fe1006cc68304@64@1
 索引#如何理解并正确使用 MySQL 索引@https://my.oschina.net/feinik/blog/1305784@43@0
 优化# Mysql 慢查询优化实践@https://juejin.im/post/5c50109ce51d457d105d304b@44@3
 其它#PHP 教程之 PHP 内置 MySQL 函数（二）@https://juejin.im/entry/5737d29c71cfe4006cf4ec6f@40@0
-其它#(15)mysql 中的触发器@https://juejin.im/post/58819729b123db75e08eeae1@29@0
-其它#MySQL 排序内部原理探秘@https://juejin.im/entry/59019b428d6d810058b8488e@39@0
-索引#MySQL中IS NULL、IS NOT NULL、!=不能用索引？胡扯！@https://juejin.im/post/5d5defc2518825591523a1db@68@15
-其它#在 Docker 中使用 mysql 的一些技巧@https://juejin.im/post/58ee5488a0bb9f006a520da3@44@2
-其它#Spring Boot 揭秘与实战（二） 数据存储篇 - MySQL@https://juejin.im/post/585867f261ff4b0068714aa8@62@8
-其它#MySQL常见的8种SQL错误用法@https://juejin.im/post/5d5e02586fb9a06b1e7f416f@36@1
-其它#(3)mysql 中的运算符@https://juejin.im/post/587e11a0570c3522011155df@24@1
-其它#GitHub 的 MySQL 高可用性实践分享@https://juejin.im/entry/5bc46e3c6fb9a05cfa2feda1@42@0
-优化#索引#浅谈MySQL的B树索引与索引优化@https://juejin.im/entry/5a9f6f4b6fb9a028cd44a354@41@1
 其它#MySQL探秘(四):InnoDB的磁盘文件及落盘机制@https://juejin.im/post/5b94884af265da0ae74f60d3@68@1
-优化#从理论到实践，Mysql查询优化剖析@https://juejin.im/post/5b8ba5dbe51d4538d63b9345@61@8
+锁#[译]MySQL InnoDB 锁——官方文档@https://juejin.im/entry/5abdb0da6fb9a028c06aeb3c@43@0
+其它#在 Docker 中使用 mysql 的一些技巧@https://juejin.im/post/58ee5488a0bb9f006a520da3@44@2
+索引#MySQL中IS NULL、IS NOT NULL、!=不能用索引？胡扯！@https://juejin.im/post/5d5defc2518825591523a1db@68@15
 其它#Mysql常见错误码讲解@http://www.bugcode.cn/mysqlerrorcodes.html@40@0
-其它#MySQL常用命令，34道练习题（持续更新中）。@https://github.com/guoxiaoxu/Guo-MySQL-Practice-Questions@115@3
-优化#我必须得告诉你的MySQL优化原理3@https://juejin.im/entry/5989746951882535e2194d1e@59@0
-其它#微型新闻系统的开发（PHP 5.4 + MySQL 5.5）@https://juejin.im/entry/585a59d761ff4b0063e00e8d@56@0
-事务#理解事务 - MySQL 事务处理机制@https://juejin.im/entry/58f08b4cda2f60005d225a8e@57@0
-其它#MySQL 数据库的几种常见高可用方案@https://juejin.im/entry/59030135a22b9d0065cf67a8@58@0
+优化#索引#浅谈MySQL的B树索引与索引优化@https://juejin.im/entry/5a9f6f4b6fb9a028cd44a354@41@1
+事务#『浅入深出』MySQL 中事务的实现@https://juejin.im/entry/5a4311aef265da431e1708f6@41@0
+其它#MySQL：缓存算什么东西？！@https://juejin.im/entry/5bed64dce51d452ceb51ed80@40@3
 其它#Spring Boot 揭秘与实战（二） 数据存储篇 - MySQL@https://juejin.im/post/585867f261ff4b0068714aa8@62@8
-其它#Mybatis 调用 MySQL 存储过程@https://juejin.im/entry/58eb00190ce463005867badc@35@2
+优化#从理论到实践，Mysql查询优化剖析@https://juejin.im/post/5b8ba5dbe51d4538d63b9345@61@8
+其它#GitHub 的 MySQL 高可用性实践分享@https://juejin.im/entry/5bc46e3c6fb9a05cfa2feda1@42@0
+其它#MySQL 数据库的几种常见高可用方案@https://juejin.im/entry/59030135a22b9d0065cf67a8@58@0
+其它#微型新闻系统的开发（PHP 5.4 + MySQL 5.5）@https://juejin.im/entry/585a59d761ff4b0063e00e8d@56@0
+优化#我必须得告诉你的MySQL优化原理3@https://juejin.im/entry/5989746951882535e2194d1e@59@0
+其它#MySQL常用命令，34道练习题（持续更新中）。@https://github.com/guoxiaoxu/Guo-MySQL-Practice-Questions@115@3
 其它#记一次MySQL迁移并从MySQL5.6升级到5.7后查询慢了几十倍的问题@https://juejin.im/entry/5ba2f4e75188255c74551712@48@1
-优化#索引#MySQL索引原理以及查询优化@https://juejin.im/entry/5baba211e51d451a3f4c1b94@41@1
-面试#企业面试题｜最常问的MySQL面试题集合（一）@https://juejin.im/entry/5b57ec015188251aa8292a69@94@1
-其它#如何设计和实现高可用MySQL@https://juejin.im/entry/5bed39a2f265da612577ae28@38@1
-其它#服务端指南 数据存储篇 | MySQL（08） 分库与分表设计@https://juejin.im/post/590a71c1128fe10058f10e4e@116@5
 优化#微博的 MySQL 数据库优化实践经验@https://juejin.im/entry/56e0bccf1532bc0050c80c54@63@0
+事务#理解事务 - MySQL 事务处理机制@https://juejin.im/entry/58f08b4cda2f60005d225a8e@57@0
+优化#索引#MySQL索引原理以及查询优化@https://juejin.im/entry/5baba211e51d451a3f4c1b94@41@1
 其它#MySQL 性能测试经验@https://juejin.im/entry/58fed512da2f60005dd3532b@41@2
-事务#MySQL探秘(八):InnoDB的事务@https://juejin.im/post/5c1f9e23f265da61380f363b@24@0
-其它#MySQL 自动测试框架介绍@https://juejin.im/entry/57848f26d342d3005781d2b9@36@0
+面试#企业面试题｜最常问的MySQL面试题集合（一）@https://juejin.im/entry/5b57ec015188251aa8292a69@94@1
 事务#五分钟搞清楚 MySQL 事务隔离级别@http://www.jianshu.com/p/4e3edbedb9a8@112@2
+其它#服务端指南 数据存储篇 | MySQL（08） 分库与分表设计@https://juejin.im/post/590a71c1128fe10058f10e4e@116@5
 其它#mysql 如何给大表添加字段@https://juejin.im/entry/5864af4c61ff4b006cfcd2b1@44@0
-其它#详解 MySQL 基准测试和 sysbench 工具@https://juejin.im/entry/59e051ad6fb9a0450b6565ec@36@0
-其它#Java 中如何使用嵌入 MySQL@https://juejin.im/entry/581c1741570c3500609668e2@35@0
 其它#MySQL 入坑手册（含教学视频）@http://url.cn/4732AhE@40@0
-其它#Python 中的 MySQL 数据库连接池@https://juejin.im/entry/579ac0c47db2a2005a422c16@36@0
-其它#Mysql基础+select5种子句 + 子查询@https://juejin.im/post/5c80a14bf265da2dd0526cc6@39@5
-其它#Mysql 你必须知道的查询语句@https://juejin.im/entry/5902ddb244d9040069145fb2@58@0
-优化#索引#【MySQL】MySQL的执行计划及索引优化@https://juejin.im/post/5c7b48036fb9a049fa107b4d@14@0
 其它#koa+mysql+vue+socket.io全栈开发之web api篇@https://juejin.im/post/5caee295e51d456e7c0cdac7@42@3
-优化#MySQL 性能优化@https://juejin.im/post/5d18cd74e51d45590a445b7b@16@1
 其它#puppeteer+mysql—爬虫新方法！抓取新闻&评论so easy！@https://juejin.im/post/5b9f13e1e51d450e4967d3c0@102@4
-其它#(4)mysql 中的常用函数@https://juejin.im/post/587ebf812f301e0057a7c057@22@1
-其它#MySQL 8.0用户和角色管理@https://juejin.im/post/5b6eec2cf265da0f5e3315a6@33@1
-事务#『浅入深出』MySQL 中事务的实现@http://draveness.me/mysql-transaction.html?hmsr@36@0
-索引#干货：mysql索引的数据结构@https://juejin.im/post/5cb7247df265da03af27ccf9@33@0
-其它#一步一步打造 MySQL 高可用平台@https://juejin.im/entry/58f3373cac502e006c3046c9@48@0
+其它#Mysql 你必须知道的查询语句@https://juejin.im/entry/5902ddb244d9040069145fb2@58@0
 其它#实战-MySQL定时进行全量与增量备份@https://juejin.im/entry/5b8f53876fb9a05d2c4384a8@53@3
-索引#干货：mysql索引的数据结构@https://juejin.im/post/5cb7247df265da03af27ccf9@33@0
-其它#Node.js+Express+Mysql 实现增删改查@https://juejin.im/post/5ca039236fb9a05e304a8a83@33@0
 其它#一步一步打造 MySQL 高可用平台@https://juejin.im/entry/58f3373cac502e006c3046c9@48@0
-事务#Mysql 事务及数据的一致性处理@https://juejin.im/entry/5a38a9046fb9a045076fc9b4@37@1
-其它#推荐一款 MySQL 表结构自动同步工具——mysql-schema-sync@https://juejin.im/entry/5b83700ce51d4538c77a938b@22@0
-其它#全栈 - 12 数据库 用Python操作MySQL@https://juejin.im/post/58be46e3128fe1006453b623@33@0
 其它#mysql 查询两个日期之间的最大连续天数@https://juejin.im/entry/580a1d75c4c97100588364c1@114@5
-其它#由 emoji 引起的 MySQL 字符集设置一解@https://housanpai.com/articles/14@32@0
-其它#MySQL语句执行分析（一）@https://juejin.im/post/5babb52c6fb9a05cd676c0f7@34@0
-其它#抢红包、秒杀高并发场景的 mysql 高效实现@https://juejin.im/entry/58ef1c745c497d006c729ad4@91@0
-其它#(6)mysql 中的字符集@https://juejin.im/post/587ec0d18d6d810058dfbeb5@20@0
-其它#MySQL入门教程系列－1.1 数据库基础@https://juejin.im/post/57ec6a1da0bb9f0058e494e1@94@5
+事务#MySQL学习系列之InnoDB下事务隔离机制@https://juejin.im/post/5b13e8b5e51d4506c3353b32@51@0
 索引#服务端指南 数据存储篇 | MySQL（03） 如何设计索引@https://juejin.im/post/58ee39a2b123db43cc3930dd@88@3
-其它#Linux Centos 迁移 Mysql 数据位置@https://juejin.im/entry/57538238530fd30068ffabae@30@0
-其它#MySql数据库分表分区实践@https://juejin.im/post/5c235c18f265da616c65a6a8@35@6
-其它#MySQL 数据库的高可用性分析@https://juejin.im/entry/5837a50a0ce463006b8ecaf1@45@1
-优化#索引#MySQL 的索引是什么？怎么优化？@https://juejin.im/entry/5beb6aca6fb9a049a81eddb1@32@0
+其它#MySQL入门教程系列－1.1 数据库基础@https://juejin.im/post/57ec6a1da0bb9f0058e494e1@94@5
 面试#优化#索引#「mysql优化专题」程序员面试都用得上的索引优化手册(5)【面试重点】@https://juejin.im/entry/5ba8f9c85188255ca00c93f2@255@4
 其它#如何将 JSON, Text, XML, CSV 数据文件导入 MySQL@https://juejin.im/entry/570c6bc6128fe1006cacb6f9@50@0
-面试#优化#索引#「mysql优化专题」程序员面试都用得上的索引优化手册(5)【面试重点】@https://juejin.im/entry/5ba8f9c85188255ca00c93f2@255@4
+其它#MySQL 数据库的高可用性分析@https://juejin.im/entry/5837a50a0ce463006b8ecaf1@45@1
 其它#介绍一个 MySQL 自动化运维利器 - Inception@https://juejin.im/post/5beaa2c35188254b0917f69a@47@6
-锁#详解 MySql InnoDB 中意向锁的作用@https://juejin.im/post/5b85124f5188253010326360@33@6
+其它#如何将 JSON, Text, XML, CSV 数据文件导入 MySQL@https://juejin.im/entry/570c6bc6128fe1006cacb6f9@50@0
 优化#索引#Java高级编程——MySQL索引实现及优化原理解析@https://juejin.im/post/5b5acddf5188257bca290f60@82@5
-优化#索引#详解Mysql索引原理及其优化@https://juejin.im/post/5d4d82caf265da039c6360ff@31@0
-其它#MySQL 8.0 的关系数据库新特性@https://juejin.im/entry/5aaf8e12f265da239376e215@42@6
 其它#高性能 MySQL 中间件 kingshard 的安装方法@https://juejin.im/entry/5798ac1579bc4400665b2d53@46@0
-其它#Amazon 和 Mysql 之间的那点事儿@https://juejin.im/entry/57d908a4816dfa0067d59ad8@33@0
-其它#实战-MySQL定时全量备份（1）@https://juejin.im/post/5b63df4b51882536e875bad6@32@0
-其它#MySQL用户及权限管理@https://juejin.im/post/5c34b2b1e51d45518d46b290@19@0
-其它#MySQL读写分离基于Mycat实现@https://juejin.im/entry/5aab1ca86fb9a028e46e625a@33@0
-其它#微服务MySQL分库分表数据到MongoDB同步方案@https://juejin.im/entry/5a0c17616fb9a04509090abc@94@2
+其它#介绍一个 MySQL 自动化运维利器 - Inception@https://juejin.im/post/5beaa2c35188254b0917f69a@47@6
+其它#MySQL 8.0 的关系数据库新特性@https://juejin.im/entry/5aaf8e12f265da239376e215@42@6
 其它#mysql 统计一个列中不同值的数量@https://juejin.im/entry/58958a42128fe1006ca942de@46@11
-锁#mysql 之锁表机制与死锁浅谈@https://juejin.im/entry/591035f5da2f6000535f779c@31@0
-索引#MySQL索引详解@https://juejin.im/post/5cda4c0be51d456e6d133582@15@5
+其它#微服务MySQL分库分表数据到MongoDB同步方案@https://juejin.im/entry/5a0c17616fb9a04509090abc@94@2
 事务#实例分析MySQL下的四种事务隔离级别@https://segmentfault.com/a/1190000010561284@85@9
-其它#MySQL/MariaDB 性能调优工具 mytop@https://juejin.im/entry/58faffb3a22b9d0065961329@28@0
-其它#ELK构建MySQL慢日志收集平台详解@https://juejin.im/post/5b7fa85bf265da43275d2bb8@44@3
-事务#浅析MySQL事务中的redo与undo@https://juejin.im/post/5c3c5c0451882525487c498d@31@1
+其它#客官，这里有一份《MySQL 必知必会》读书笔记，请您笑纳!@https://juejin.im/post/5d2335846fb9a07f021a2509@183@13
+优化#单表 60 亿记录等大数据场景的 MySQL 优化和运维之道 | 高可用架构@https://juejin.im/entry/5716e28aebcb7d005cac1634@173@0
 其它#一个不可思议的MySQL慢查分析与解决@https://juejin.im/entry/59fffc6351882546b15be649@48@3
 优化#单表 60 亿记录等大数据场景的 MySQL 优化和运维之道 | 高可用架构@https://juejin.im/entry/5716e28aebcb7d005cac1634@173@0
-其它#MySQL 设置远程访问权限@http://blog.guoyb.com/2017/02/19/mysql-remote-connect/@30@0
-其它#记一次 React + Koa + Mysql 构建个人博客@https://juejin.im/post/5ca0c0def265da307f57f58a@28@9
-其它#MySQL 5.7 集群搭建@https://juejin.im/entry/5bfbaf16e51d4562587b355d@17@0
-其它#客官，这里有一份《MySQL 必知必会》读书笔记，请您笑纳!@https://juejin.im/post/5d2335846fb9a07f021a2509@183@13
+其它#利用 Express 与 MySQL 搭建超简洁的 Blog · 简单心理技术团队@https://juejin.im/entry/581821aec4c97100555a704b@72@2
+其它#Python操作MySQL存储，这些你都会了吗？@https://juejin.im/post/5ae14ae96fb9a07a9b35a4db@41@1
 其它#MySQL高可用架构案例篇：UCloud最佳实践@https://juejin.im/post/5b0915096fb9a07ab83e79cf@46@0
 其它#(9)mysql 中的存储过程和自定义函数@https://juejin.im/post/587f58bd8d6d810058e4eec2@46@0
-其它#MySQL数据库快问快答@https://juejin.im/post/5cabf5025188251afe0a76ad@31@2
-其它#Django MySQL配置@https://juejin.im/entry/5aafb68851882548fe49f11c@12@2
-事务#索引#Mysql基础 --- 索引+事务 @https://juejin.im/post/5c903fa1f265da612d6334aa@18@0
-其它#Python操作MySQL存储，这些你都会了吗？@https://juejin.im/post/5ae14ae96fb9a07a9b35a4db@41@1
-其它#利用 Express 与 MySQL 搭建超简洁的 Blog · 简单心理技术团队@https://juejin.im/entry/581821aec4c97100555a704b@72@2
-其它#MySQL binlog格式解析@https://juejin.im/entry/5b7642e8e51d45664153b447@19@0
-其它#MySQL指南之基础知识@https://juejin.im/post/5c8c7d7d5188257c5b4786c1@29@1
+其它#架构秘笈：移花接木。使用mysql模拟redis@https://juejin.im/post/5d81c24751882523ee70abde@42@7
 索引#MySQL 索引背后的数据结构及算法原理@https://juejin.im/entry/587c43fbb123db005df54979@75@1
 索引#【从零开始学习 MySql 数据库】(5) 约束视图与索引@https://juejin.im/post/5853ff70128fe100698a6372@89@0
 优化#mysql 数据库开发常见问题及优化@https://juejin.im/entry/591a6d530ce463006904eb5d@73@0
-其它#架构秘笈：移花接木。使用mysql模拟redis@https://juejin.im/post/5d81c24751882523ee70abde@42@6
-其它#(10)mysql 中的变量@https://juejin.im/post/58804710128fe100681d09df@14@0
-面试#【面试】MySQL 中NULL和空值的区别？@https://juejin.im/post/5d1c32bf51882551253e483d@26@7
 面试#企业面试题｜最常问的MySQL面试题集合（二）@https://juejin.im/entry/5b57ebdcf265da0f61320e6f@66@0
-索引#『MySQL』揭开索引神秘面纱@https://juejin.im/post/5c754718e51d4525f05461b8@28@6
-其它#基于Docker搭建MySQL主从复制@https://juejin.im/entry/5b05145df265da0b702644e9@28@0
 锁#MySQL锁机制——你想知道的都在这！@https://juejin.im/entry/5d3e8e9ff265da1bac406043@40@0
+索引#理解索引（中）：MySQL查询过程和高级查询@https://juejin.im/post/5b0c4f0b518825158160ac21@71@1
 其它#redis缓存队列+MySQL +php任务脚本定时批量入库@https://juejin.im/post/5a3b731c5188257d167a5e37@69@0
-锁#索引#MySQL浅谈（索引、锁）@https://juejin.im/post/5c1a042e51882545e24f0e46@17@3
-其它#MySQL 内置结构 hash 表的使用@http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=402802538&idx=1&sn=e84b456e3dd80c4d4f3ca369f99ac9db#rd@26@0
-其它#MySQL JSON 数据类型操作@https://juejin.im/entry/59e5b88c51882521ad0f369f@24@0
-其它#Asyncdb（四）：MySQL网络协议分析@https://juejin.im/post/5a1d0d176fb9a0451238afb1@26@1
-面试#【面试】MySQL 中NULL和空值的区别？@https://juejin.im/post/5d1c32bf51882551253e483d@26@7
-其它#Scaling to 100M: MySQL is a Better NoSQL | Wix Engineering@https://juejin.im/entry/58de8fa2da2f60005fc29dbc@28@0
-其它#MySQL 性能测试经验@https://juejin.im/entry/59018dd38d6d810058b7d7e8@28@0
-其它#MySQL UPDATE 语句一个“经典”的坑@https://juejin.im/entry/5bebec49e51d4502df235bb5@27@6
-其它#通过ProxySQL提升PHP/MySQL的性能@https://juejin.im/entry/5b445a85e51d451955345eae@25@0
-事务#『MySQL』深入理解事务的来龙去脉@https://juejin.im/post/5cbc049de51d456e7b372089@36@0
-其它#MySQL 到底能不能放到 Docker 里跑？@https://juejin.im/entry/59bf37a6f265da0664642508@35@0
 优化#MYSQL开发性能研究——批量插入的优化措施@https://juejin.im/entry/59bfabe0f265da067374c5f5@59@0
-其它#MySQL 字符集中文乱码剖析@https://juejin.im/entry/583d42f5128fe1006ac5e9aa@25@0
-其它#(12)mysql 中的光标@https://juejin.im/post/5880479a570c350062aadd0b@13@0
-引擎#MySQL 常用数据存储引擎区别@https://juejin.im/entry/58fdc53ab123db74d880e943@36@0
-其它#MySQL太慢？试试这些诊断思路和工具@https://juejin.im/entry/5b835a12e51d4557b85fcd16@35@0
-优化#索引#MySQL 性能优化之索引和查询优化@https://juejin.im/entry/5b1de63ee51d4506b53eb954@38@1
-其它#MySQL 唯一性约束与 NULL 值的处理@http://yemengying.com/2017/05/18/mysql-unique-key-null/@26@0
-其它#用 Python 连接 MySQL 的几种姿势@https://juejin.im/entry/5a2f569b6fb9a0452a3c4a26@25@0
-其它#用node-koa2-mysql-bootstrap搭建一个前端论坛@https://juejin.im/post/5ae99836f265da0b9e64e0fc@41@3
-优化#MySQL原理和优化 深度好文(转载)@https://juejin.im/post/5d35cb6b5188253a2e1b92c9@36@0
-其它#[译]GitHub 的 MySQL 高可用性实践分享@https://juejin.im/entry/5b35dbb06fb9a00e43467999@36@0
-索引#MySQL索引@https://juejin.im/post/5cc65aace51d456e5633de80@10@4
-其它#mysql设置默认编码格式utf-8@http://blog.csdn.net/jokey_wz/article/details/78803923@24@2
-其它#MySQL5.7 中新增的 JSON 类型的使用方法@https://juejin.im/entry/57668b156be3ff006a2f8011@36@1
-引擎#mysql 存储引擎介绍与适用场景@https://juejin.im/entry/58fad155a22b9d006594ba88@34@0
-其它#mysql 证明为什么用 limit 时，offset 很大会影响性能@https://juejin.im/entry/58e49c86ac502e006c1dfaf0@57@1
-其它#(14)mysql 中的事件@https://juejin.im/post/588196c28d6d810058b7c631@12@0
-锁#MySQL锁之源码探索@https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697266921&idx=1&sn=6ff833e5c45c17f5a41037d12bd2762d&chksm=8376f9ddb40170cb72f611d5fc5125c3f1fb5dbba2418cbe3003861587415ac801b785b0ceb1&mpshare=1&scene=1&srcid=0404jkGkgfZZhsYC66VtauzF&pass_ticket=lEQf3@17@0
-其它#(2)mysql 支持的数据类型总结@https://juejin.im/post/587e125b8d6d8100589b1810@24@1
-其它#关于 MySQL 你可能不知道的 SQL 使用技巧@https://juejin.im/entry/58fc7ecdb123db4d701bd27b@66@0
-事务#MySQL事务隔离@https://juejin.im/post/5c6a73fb6fb9a049f571b30f@13@1
-优化#【数据库】MySQL查询优化@https://juejin.im/post/5cbc304ff265da035c6bc332@25@0
-其它#MySQL 占用空间一键查询实践@https://juejin.im/entry/58f49121b123db632b4274c8@34@0
-其它#MySQL 主从复制搭建，基于日志（binlog）@https://juejin.im/entry/58f452c344d904006c016543@24@1
-优化#【数据库】MySQL查询优化@https://juejin.im/post/5cbc304ff265da035c6bc332@25@0
-优化#MySQL · 性能优化 · MySQL常见SQL错误用法@https://juejin.im/post/5d01bed1f265da1bb96fd7cf@13@1
-事务#深入学习MySQL事务：ACID特性的实现原理@https://juejin.im/post/5c9cb91d5188251cea0abbd7@56@6
-其它#MySQL 主从复制搭建，基于日志（binlog）@https://juejin.im/entry/58f452c344d904006c016543@24@1
-优化#RDS MySQL 空间优化最佳实践@https://juejin.im/entry/576356c2816dfa005449e061@24@0
-其它#如何在 Mac 下用 Clion 调试 MySQL 源码@https://juejin.im/post/5ce490986fb9a07ef200f687@33@18
-事务#详细分析MySQL事务日志(redo log和undo log)@https://juejin.im/entry/5ba0a254e51d450e735e4a1f@38@8
-其它#MySQL 枚举类型的“八宗罪”@https://juejin.im/entry/5aa231505188257bf550a663@23@3
-其它#MySQL主从复制原理@https://juejin.im/post/5ca2a176f265da30ba5b0b91@15@0
 其它#MySQL入门教程系列－1.2 数据库技术构成@https://juejin.im/post/57ec6da067f35600581f1df9@66@2
-其它#MySQL 选型以及使用 mariadb 踩过的几个坑@https://juejin.im/entry/58fdd900da2f60005dcd1847@24@1
-其它#MySQL8.0 安装踩坑指南@https://juejin.im/entry/5adb5deff265da0b9d77cb3b@25@6
-其它# MySQL常用操作和主从配置@https://juejin.im/post/5a8e53675188257a71687e1f@25@0
+其它#用node-koa2-mysql-bootstrap搭建一个前端论坛@https://juejin.im/post/5ae99836f265da0b9e64e0fc@41@3
+其它#mysql 证明为什么用 limit 时，offset 很大会影响性能@https://juejin.im/entry/58e49c86ac502e006c1dfaf0@57@1
+其它#MySQL入门教程系列－1.2 数据库技术构成@https://juejin.im/post/57ec6da067f35600581f1df9@66@2
+事务#深入学习MySQL事务：ACID特性的实现原理@https://juejin.im/post/5c9cb91d5188251cea0abbd7@56@6
 索引#MySQL 索引设计背后的数据结构及算法详解@https://juejin.im/entry/5913df97128fe1005c9f3d1a@56@0
-其它#探究MySQL中的日志文件@https://juejin.im/post/5b7c0aabf265da438415b9eb@23@0
-其它#MySQL基础知识（全）@https://juejin.im/post/5a12d62bf265da431d3c4a01@15@0
-其它#MySQL Join的底层实现原理@https://juejin.im/post/5bea59896fb9a049f23c49b8@25@2
-其它#PHP API中，MYSQL与MYSQLI的持久连接区别@https://juejin.im/entry/5a0bfc3bf265da43133cb0b1@21@0
-其它#MySQL 数据库复制概论@https://juejin.im/entry/58fdce7ba0bb9f0065c8f805@23@0
-索引# 【MySQL（2）| MySQL索引机制】@https://juejin.im/entry/5c68a31ef265da2dc13c70f9@8@2
-其它#MySQL基础知识（全）@https://juejin.im/post/5a12d62bf265da431d3c4a01@15@0
-其它#MySQL 数据库复制概论@https://juejin.im/entry/58fdce7ba0bb9f0065c8f805@23@0
-其它#PHP API中，MYSQL与MYSQLI的持久连接区别@https://juejin.im/entry/5a0bfc3bf265da43133cb0b1@21@0
-索引#Mysql-高性能索引@https://juejin.im/post/5bc05e19f265da0b001f55c7@23@0
-优化#MySQL性能优化（四）-- MySQL explain详解@https://juejin.im/post/5d141528e51d4577565367d0@10@1
+其它#再见乱码：5分钟读懂MySQL字符集设置@https://segmentfault.com/a/1190000012775484@54@0
+索引#MySQL 索引设计背后的数据结构及算法详解@https://juejin.im/entry/5913df97128fe1005c9f3d1a@56@0
 引擎#优化#索引#mysql优化 | 存储引擎，建表，索引，sql的优化建议@https://juejin.im/post/5c53a9926fb9a049be5dea4e@60@4
-其它#MySQL 异步驱动浅析 （一）：性能分析@https://juejin.im/post/58fa9d1d0ce4630061200774@30@0
-索引#MySQL学习 - 索引@https://juejin.im/post/5ccc0c45e51d456e79545d17@13@1
-其它#MySQL基础入门——MySQL与R语言、Python交互@https://juejin.im/entry/5a2f52ad6fb9a0452341d9f8@10@0
-其它#MySQL主从不一致情形与解决方法@https://juejin.im/post/5cc69e38f265da0354031789@32@2
-其它#rocketmq可靠一致性的mysql落地实现@https://juejin.im/post/5ab3552c6fb9a028b92d0c3c@39@0
-其它#MySQL 存储过程的动态行转列@https://juejin.im/entry/569ef2d5a633bd005b349102@22@0
-其它#FlutterGo 后端知识点提炼:midway+Typescript+mysql(sequelize)@https://juejin.im/post/5d77057d51882520d46abb9b@38@4
+其它#后端程序员必备：mysql数据库相关流程图/原理图@https://juejin.im/post/5d42f48cf265da03ab422e08@114@14
 面试#企业面试题｜最常问的MySQL面试题集合（三）@https://juejin.im/entry/5b59cdf8f265da0f7e6295ba@56@0
-其它#云服务器建站 - Node & Nginx & MySQL@https://juejin.im/post/5c1f0f31e51d4502a232d9f2@25@3
 其它#迈出全栈第一步，vue+node+mysql 独立完成前后端分离的增删改查流程@https://segmentfault.com/a/1190000009246144?share_user=1030000008125042@150@4
-其它#服务端指南 数据存储篇 | MySQL（01） 数据类型的使用与选择@https://juejin.im/post/58e64a54ac502e006c28cdca@104@2
-其它#重学MySQL系列(二)：一文让你了解MySQL启动整个过程@https://juejin.im/post/5d81df766fb9a06b2650cc72@15@0
-其它#MySQL入门系列：查询简介（二）@https://juejin.im/post/5c832c46f265da2db5426874@23@3
-其它#MySQL入门系列：查询简介（二）@https://juejin.im/post/5c832c46f265da2db5426874@23@3
-优化#MySQL性能优化（六）-- in和exists@https://juejin.im/post/5d15761751882555ad0c9845@16@4
-事务#MySQL 长事务导致的 Table Metadata Lock@https://juejin.im/entry/5791be771532bc0060bb8b4b@23@1
 其它#如何用 Go 语言设计和实现一个 MySQL Proxy@https://github.com/flike/kingshard/blob/master/doc/KingDoc/architecture_of_kingshard_CN.md@57@1
-其它#MySQL中JSON字段的使用技巧@https://juejin.im/post/5c1332625188251e663eb925@22@2
 锁#索引#MySQL 索引的原理与应用：索引类型，存储结构与锁@https://juejin.im/post/5cf3d550f265da1b76388a34@60@3
-优化#Get MySQL这5个优化技巧，你将如虎添翼！@https://juejin.im/entry/5b5fc854f265da0f900e2a0e@52@0
-其它#mysql-proxy 数据库中间件架构@https://juejin.im/entry/592647e72f301e0057b94b2e@29@0
-优化#我必须得告诉大家的MySQL优化原理2@https://juejin.im/entry/5b63e00ce51d4517c564d189@32@0
-其它#MySQL · 源码分析 · MySQL 半同步复制数据一致性分析@https://juejin.im/entry/59bf2e415188257e8f038a82@14@0
-优化#索引#MySQL索引原理及其优化@https://juejin.im/post/5cf73440f265da1bc23f6615@20@0
-优化#企业 MySQL 优化实施方案@https://juejin.im/entry/5ba9a445e51d450e6548755a@20@0
-其它#[MySQL光速入门]001 让MySQL跑起来@https://juejin.im/post/5cb7e43ff265da0374187465@9@1
-其它#mysql 查询重复字符串出现次数@http://kuka.im/2016/06/03/2016-06-03-mysql查询重复字符串出现次数/@30@0
-锁#对于MySQL你必须要了解的锁知识@https://juejin.im/post/5ca4c400e51d4542792e78a3@29@0
-其它#”MySQL官方驱动“主从分离的神秘面纱（扫盲篇）@https://juejin.im/post/5c10a3d56fb9a04a0440e154@47@4
-其它#MySQL数据库设计规范@https://juejin.im/post/5d68dff55188255b0600538e@20@1
-其它#.NET Core+MySql+Nginx 容器化部署@https://juejin.im/post/5a540f876fb9a01cbb38f9b6@20@0
+其它#服务端指南 数据存储篇 | MySQL（01） 数据类型的使用与选择@https://juejin.im/post/58e64a54ac502e006c28cdca@104@2
 其它#MySQL 高扩展架构构建百万在线系统实践@https://juejin.im/post/5b20857b6fb9a01e701006dd@46@1
-其它#常见的五种MySQL高可用方案分析@https://juejin.im/post/5ca754be6fb9a05e267039a1@31@0
-其它#网易云 MySQL实例迁移的技术实现@https://juejin.im/post/5ad6b1d26fb9a028c6763c42@29@0
-优化#MySQL数据库的性能的影响分析及其优化@https://juejin.im/post/59fddaf4f265da43163c70ff@53@0
-锁#MySQL 死锁与日志二三事@http://www.jianshu.com/p/ff3be16df967@21@0
-锁#MySQL探秘(六):InnoDB一致性非锁定读@https://juejin.im/post/5bf168aae51d453b8e54442c@22@2
-其它#[MySQL光速入门]001 让MySQL跑起来@https://juejin.im/post/5cb7e43ff265da0374187465@9@1
-其它#MySQL Binlog 解析工具 Maxwell 详解@https://juejin.im/post/5c8616fc5188251bde6bd43a@21@0
-优化#索引#MySQL索引原理及其优化@https://juejin.im/post/5cf73440f265da1bc23f6615@20@0
 其它#如何基于MySQL及Redis搭建统一的KV存储服务@https://juejin.im/post/5adddc00f265da0b7f4429f6@46@1
-优化#Get MySQL这5个优化技巧，你将如虎添翼！@https://juejin.im/entry/5b5fc854f265da0f900e2a0e@52@0
-其它#利用docker实现mysql主从同步/读写分离，附赠docker搭建mycat读写分离。@http://www.sunhao.win/articles/mysql-replication.html@121@1
-其它#MySQL online create index实现原理@https://juejin.im/post/5a92b08f5188257a5d2b5292@13@0
-其它#MySQL数据库设计规范@https://juejin.im/post/5d68dff55188255b0600538e@20@1
-其它#MYSQL数据库与Emoji表情的故事@https://juejin.im/post/5c87c57ee51d454f185ae38c@22@2
-其它#.NET Core+MySql+Nginx 容器化部署@https://juejin.im/post/5a540f876fb9a01cbb38f9b6@20@0
-其它#如何基于 MySQL 及 Redis 搭建统一的 KV 存储服务		 @https://juejin.im/entry/587df7ca570c35220110788c@46@0
 其它#”MySQL官方驱动“主从分离的神秘面纱（扫盲篇）@https://juejin.im/post/5c10a3d56fb9a04a0440e154@47@4
-其它#抓包解析项目中请求的mysql,redis,mongodb等请求@https://juejin.im/entry/5bb087db5188255ca00ca3d1@27@1
-面试#BAT 55 道 MySQL 面试题！@https://juejin.im/entry/5b9496596fb9a05d227280ed@14@0
-其它#MySQL快速入门@https://juejin.im/post/5c9231fbf265da612254b055@10@0
-面试#BAT 55 道 MySQL 面试题！@https://juejin.im/entry/5b9496596fb9a05d227280ed@14@0
+其它#利用docker实现mysql主从同步/读写分离，附赠docker搭建mycat读写分离。@http://www.sunhao.win/articles/mysql-replication.html@121@1
+索引#MySQL 索引背后的数据结构及算法原理@https://juejin.im/entry/591012d161ff4b006255b447@47@1
+优化#复杂业务下向Mysql导入30万条数据代码优化的踩坑记录@https://juejin.im/post/5adde100f265da0b9a69947a@121@6
+优化#MySQL数据库的性能的影响分析及其优化@https://juejin.im/post/59fddaf4f265da43163c70ff@53@0
+其它#如何基于 MySQL 及 Redis 搭建统一的 KV 存储服务		 @https://juejin.im/entry/587df7ca570c35220110788c@46@0
+其它#如何基于 MySQL 及 Redis 搭建统一的 KV 存储服务		 @https://juejin.im/entry/587df7ca570c35220110788c@46@0
+其它#一文教您如何通过 Docker 快速搭建各种测试环境(Mysql, Redis, Elasticsearch, MongoDB) | 建议收藏@https://juejin.im/post/5ce531b65188252d215ed8b7@108@9
 其它#MySQL性能诊断实践之系统观测工具@https://juejin.im/entry/5b9a2699f265da0ae504fde5@45@1
 其它#这十个MySQL经典错误，老司机一定遇到过！你呢？@https://juejin.im/entry/5bda44856fb9a022795775f0@45@1
-其它#MySQL快速入门@https://juejin.im/post/5c9231fbf265da612254b055@10@0
-引擎#优化#MySQL · 引擎特性 · MySQL5.7 崩溃恢复优化	 @https://juejin.im/entry/5841225561ff4b00587ec651@10@0
-其它#node+express框架中连接使用mysql经验总结@https://juejin.im/post/5be3f01ce51d452c4c4a10c1@27@8
 优化#mysql数据库开发常见问题及优化@https://juejin.im/entry/5b595d05e51d45352617526d@41@0
-其它#Mysql的并发控制原理@https://juejin.im/post/5d372dd55188253bef030c2b@13@0
-其它#MySQL慢查询日志相关的配置和使用。@https://juejin.im/entry/59bf33f95188257e70532349@20@0
-其它#使用 sysbench 对 mysql 压力测试@https://juejin.im/entry/570477db128fe100524ff92b@20@0
 锁#MySQL 在高并发下的 订单撮合 系统使用 共享锁 与 排他锁 保证数据一致性@https://juejin.im/post/5bf7d142518825369c5640de@129@39
-其它#一文教您如何通过 Docker 快速搭建各种测试环境(Mysql, Redis, Elasticsearch, MongoDB) | 建议收藏@https://juejin.im/post/5ce531b65188252d215ed8b7@108@9
-其它#GitHub 的 MySQL 基础架构自动化测试@https://juejin.im/entry/59d38c036fb9a00a5015e25b@25@0
 其它#mysql 查询语句 in 和 exists 二者的区别和性能影响@https://juejin.im/entry/58589f50128fe1006dc94145@45@0
-其它#浅析MySQL InnoDB的隔离级别@https://juejin.im/post/5c3d95c0e51d452c8e6d30f0@21@1
-其它#MySQL性能参数汇总@https://juejin.im/post/5d18c4c2e51d45775555092d@18@0
-其它#各版本 MySQL 并行复制的实现及优缺点@https://juejin.im/entry/56a1b0938ac2470055f86971@28@0
-其它#在linux中安装mysql并解决中文乱码问题@https://juejin.im/post/5a4f2fb26fb9a01caa2055c3@27@0
-优化#ＭySQL 中 Using filesort 问题的优化方法@https://juejin.im/entry/5795faaa0a2b580061c980aa@22@0
-其它#Mysql数据库监听binlog@https://juejin.im/post/5d2c2464e51d45106b15ffc3@19@0
-面试#面试BAT前先搞定这18道MySQL经典面试题（含答案解析）@https://juejin.im/post/5d8326bc5188255457503bab@107@5
-其它#从 Oracle 迁移到 MySQL 的各种坑及自救方案@https://juejin.im/entry/590adde55c497d0058553ac4@29@1
-其它#MySQL的可重复读级别能解决幻读吗@https://juejin.im/post/5c9040e95188252d92095a9e@26@7
-其它#GitHub 的 MySQL 基础架构自动化测试@https://juejin.im/entry/59d38c036fb9a00a5015e25b@25@0
-其它#MySQL系列之一条更新SQL的生命历程@https://juejin.im/post/5bf6e2946fb9a049a62c377b@24@11
-其它#服务端指南 数据存储篇 | MySQL（07） 范式与反模式@https://juejin.im/post/58fe00510ce4630061392d07@45@3
-其它#Toshihiko——一个极简的 Node.js MySQL ORM@https://github.com/XadillaX/Toshihiko@19@4
-其它#node.js(koa2)+MySQL简易入门@https://juejin.im/post/5d62af0ef265da03db07842e@17@1
-其它#Swoole MySQL 连接池的实现@https://juejin.im/entry/5ceb43e06fb9a07eac05b0b7@12@9
-锁#MySQL乐观锁在分布式场景下的实践@https://juejin.im/post/5afec34df265da0b745269db@28@2
 索引#MySQL 数据库索引使用场景 & 注意事项@https://juejin.im/entry/58ef200144d904006cdf29c2@45@0
-其它#微服务MySQL分库分表数据到MongoDB同步方案@https://juejin.im/entry/5a127cfb5188254d2b6dbc50@48@0
-其它#我心中的 MySQL DBA@https://juejin.im/entry/5c5ddb01e51d45013e50b497@12@2
+其它#服务端指南 数据存储篇 | MySQL（07） 范式与反模式@https://juejin.im/post/58fe00510ce4630061392d07@45@3
 锁#索引#MySQL 避免行锁升级为表锁——使用高效的索引@https://juejin.im/post/58f04e6b61ff4b0058e33d77@43@8
-索引#mysql 索引合并: 一条 sql 可以使用多个索引@http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=403140483&idx=1&sn=a65e9d200dde47142a8b4b4cb1571265#rd@39@0
-其它#mysql读写分离@https://juejin.im/entry/5a9521b26fb9a0633f0e476b@10@2
+其它#微服务MySQL分库分表数据到MongoDB同步方案@https://juejin.im/entry/5a127cfb5188254d2b6dbc50@48@0
 索引#服务端指南 数据存储篇 | MySQL（04） 索引使用的注意事项@https://juejin.im/post/58ef85f344d904006ce304a6@87@0
-事务#MySQL事务的隔离级别@https://juejin.im/post/5c9b6267e51d4541842f7f46@18@2
 其它#idgo - 一个基于 MySQL 的轻量级 ID 生成器（Golang）@https://juejin.im/entry/567c977800b042c091fa5a1a@40@0
 其它#使用 Docker Compose 搭建 MySQL 数据库主从复制实例@https://juejin.im/entry/5a2e4c68f265da43133d197f@42@0
-面试#索引#几道MySQL索引相关的重点面试题@https://juejin.im/post/5cdfd5f6e51d4510b934dcb8@27@7
-锁#MySQL中锁详解（行锁、表锁、页锁、悲观锁、乐观锁等）@https://juejin.im/entry/59de42c3f265da432651d339@27@0
-锁#MYSQL使用锁解决并发下的更新丢失问题@https://juejin.im/entry/5a6828956fb9a01c9332d83e@26@0
-锁#MySQL 死锁与日志二三事@https://my.oschina.net/leejun2005/blog/1484511@17@0
-锁#MySQL探秘(五):InnoDB锁的类型和状态查询@https://juejin.im/post/5bded0b76fb9a049b829e58e@28@3
-锁#索引#MySQL 死锁套路：走不同的索引更新@https://juejin.im/post/5ce40c00518825332a1eef0c@27@18
-其它#MVCC 原理探究及 MySQL 源码实现分析@https://juejin.im/entry/58f86815ac502e00638e1c97@23@1
-其它#有赞 MySQL 自动化运维系统 —— ZanDB@https://juejin.im/entry/5add560c6fb9a07ac652a19c@18@1
-引擎#MySQL的server层和存储引擎层是如何交互的@https://juejin.im/post/5cef832e5188257c6b516d1f@19@2
-其它#存储总量达 20T 的 MySQL 实例，如何完成迁移？@https://juejin.im/entry/583bde4eac502e006ea9063a@35@0
-面试#面试问烂的 MySQL 四种隔离级别@https://juejin.im/post/5cc294bce51d456e3e7a3bbc@24@0
-其它#Faster Pagination in Mysql – Why Order By With Limit and Offset is Slow?@http://www.eversql.com/faster-pagination-in-mysql-why-order-by-with-limit-and-offset-is-slow/@18@0
-其它#在MySQL中，不要使用“utf8”。使用“utf8mb4”@https://juejin.im/post/5ca4c5e2f265da30d277fa66@24@0
-锁#MySQL redo lock 死锁问题排查 & 解决过程@https://juejin.im/entry/583d42f7ac502e006c2f64f1@23@0
-事务#MySql(四) InnoDB事务浅析@https://juejin.im/post/5c175babf265da616a4790c9@12@2
-事务#MySQL的事务@https://juejin.im/post/5d69ccb66fb9a06b1b19d6fa@7@2
-其它#mysql基础@https://juejin.im/post/5ca4b236f265da30c90275c0@7@0
-其它#[英] 为什么 Uber 的工程师选择了 MySQL 而不是 PostgreSQL@https://juejin.im/entry/5799a8621532bc0060640ce8@34@2
-其它#MySQL入门系列：查询简介（一）@https://juejin.im/post/5c81d0c8f265da2daf79d1df@17@1
-其它#Vue+Express+Mysql 全栈初体验@https://juejin.im/post/5ce96694f265da1bc5523f69@17@4
-事务#MySQL的事务@https://juejin.im/post/5d69ccb66fb9a06b1b19d6fa@7@2
-其它#全栈 - 11 数据库 MySQL使用方法@https://juejin.im/post/58bcfda5128fe100644bf588@16@0
-索引#MySQL索引的类型@https://juejin.im/post/5ca0879d6fb9a05e4d6c1195@9@0
-其它#[英] 为什么 Uber 的工程师选择了 MySQL 而不是 PostgreSQL@https://juejin.im/entry/5799a8621532bc0060640ce8@34@2
-其它#MySQL入门系列：查询简介（一）@https://juejin.im/post/5c81d0c8f265da2daf79d1df@17@1
-其它#MySQL -update语句流程总结@https://juejin.im/post/5c249e9a6fb9a049d5198dd5@17@0
-其它#MySQL数据库基础——本地文件交互@https://juejin.im/entry/5a26083ef265da430b7b15f5@23@0
-其它#MariaDB和MySQL全面对比：选择数据库需要考虑这几点@https://juejin.im/entry/5b8d06366fb9a01a182693ac@34@1
+其它#使用mysql日期与时间函数轻易搞定日期与时间逻辑@https://juejin.im/post/58a86dff61ff4b0062b8a86a@69@3
 优化#想让 MySQL 跑得更快，更不可忽略这些硬件和系统的优化！@https://juejin.im/entry/57baab23128fe1005f8d0041@69@0
-优化#非官方的 MySQL 8.0 优化指南@https://juejin.im/entry/58b2921f570c3500692afa04@17@0
-索引#Mysql索引@https://juejin.im/post/5cbc122df265da0393786663@7@0
-引擎#(5)mysql 常用存储引擎@https://juejin.im/post/587ec052128fe100570a34ee@16@0
-其它#埋在 MYSQL 数据库应用中的 17 个关键问题！@https://juejin.im/entry/5902e79c1b69e60058c6bc33@31@0
-其它#使用Swoole测试MySQL在特定SQL下的并发性能@https://juejin.im/entry/5ad599ec51882555731ca09f@20@0
-其它#mysql每日备份for Linux   @https://juejin.im/post/5ca1c5ece51d454c444e540d@12@0
-其它#MySQL5.7中的sql_mode默认值@https://juejin.im/post/5bd9ba6df265da394f5a1b94@15@2
-引擎#MySQL InnoDB 存储引擎探秘@https://juejin.im/entry/5c6ccea3f265da2dd0523a67@15@0
-其它#MySQL单表数据不要超过500万行：是经验数值，还是黄金铁律？@https://juejin.im/post/5d0baf546fb9a07eef6a13a3@67@4
-锁#MySQL死锁问题如何分析@https://juejin.im/post/5d8082bc6fb9a06b032031a2@16@3
-其它#Mysql插入语句之value与values区别@http://blog.csdn.net/qq_26683009/article/details/52526834@16@4
-其它#MySQL 5.7 多主一从（多源复制）同步配置@https://juejin.im/entry/5bf7731351882518805ac985@22@0
-事务#MySql中的事务@https://juejin.im/post/5cbacf82e51d456e5977b184@8@1
-其它#[译] 使用 MySQL 的视角去看待 MongoDB 数据库  @https://juejin.im/entry/584674e979bc440065c785ea@20@0
-其它#mysql主从同步/读写分离@https://juejin.im/entry/59e43daff265da430629d23b@15@0
-索引#MySql如何使用索引(一)@https://juejin.im/post/5c4d0ea1f265da6179752b3e@16@0
-其它#比CRUD多一点儿（一）：MySQL常用命令 @https://juejin.im/post/5a4ec26f6fb9a01c982c5dc2@20@0
-其它#MySQL高可用架构对比@https://juejin.im/post/5ca4b5dcf265da30bf15d096@11@0
-其它#企业中MySQL主流高可用架构实战三部曲之MHA@http://sumongodb.blog.51cto.com/4979448/1951495@34@0
-其它#Asyncdb（五）：MySQL驱动架构设计@https://juejin.im/post/5a4edb255188257350510218@14@0
-优化#DBA很忙—MySQL的性能优化及自动化运维实践@https://juejin.im/entry/5b35adf251882574a26e9fb1@23@0
 其它#从 MySQL 到 Kafka，如何管理每天实时发布的几十亿条消息？@https://juejin.im/entry/57dbc784bf22ec005802edc5@71@0
-其它#GitHub的MySQL高可用性实践@https://juejin.im/entry/5b4d548be51d451990610543@15@0
-其它#各版本 MySQL 并行复制的实现及优缺点@http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=401508251&idx=1&sn=1e66786b4f60c3596014bffecf237d6f#rd@21@0
-面试#面试前必须知道的MySQL命令【explain】@https://juejin.im/post/5c0891c7e51d4538994aefbd@20@0
-其它#SpringBoot+Mybatis+MySql学习@https://juejin.im/post/5ac5a5ad6fb9a028cd45523d@8@12
-其它#MySQL ·InnoDB 文件系统之文件物理结构 @https://juejin.im/entry/56ef9536731956005c49ae9c@22@1
-引擎#锁#深入MySQL存储引擎分析锁和排序的原理@https://juejin.im/post/5ce897e1f265da1b904bbcf9@20@0
-优化#索引#一篇文章搞定 MySQL 索引优化@https://juejin.im/post/5cbd7610f265da03587bfc19@19@2
-其它#[译] 使用 MySQL 的视角去看待 MongoDB 数据库  @https://juejin.im/entry/584674e979bc440065c785ea@20@0
-其它#让 mysql 支持全部 Unicode 字符@https://juejin.im/entry/587dc84661ff4b00650b7368@15@1
+事务#MySQL 快速入门 -- 删除数据 & 备份还原 & 视图 & 事务 & 触发器@https://juejin.im/entry/5916de1e8d6d8100586dd6a1@76@0
 其它#【从零开始学习 MySql 数据库】(3) 函数与子查询和连接查询@https://juejin.im/post/5853fce9ac502e0067e041a5@88@0
-其它#MySQL 8.0新的默认鉴权方式你做好准备了吗？@https://juejin.im/entry/5bacab65f265da0ac55e58ca@30@0
-其它#Asyncdb（五）：MySQL驱动架构设计@https://juejin.im/post/5a4edb255188257350510218@14@0
-其它#mysql的query end status | 后端之路@https://juejin.im/entry/5a4df49e6fb9a0450c49d3bc@10@0
-其它#MySQL系列之一条SQL查询语句的执行过程@https://juejin.im/post/5bf576ad6fb9a049b221823a@29@6
-其它#gh-ost —— Github 的在线 MySQL 数据库移植工具  @https://juejin.im/entry/57eb8cb5816dfa005e05e450@19@0
-其它#MySQL慢查询日志总结@https://juejin.im/entry/5d2d6f57e51d45105e021379@14@1
-其它#一步一步教你如何用python操作mysql@https://juejin.im/entry/5a9fb53d6fb9a028ba1f091a@32@1
-其它#MySQL 每秒 570000 的写入，如何实现？@https://juejin.im/post/5cd3f7076fb9a032022233da@14@1
-引擎#锁#深入MySQL存储引擎分析锁和排序的原理@https://juejin.im/post/5ce897e1f265da1b904bbcf9@20@0
-引擎#MySQL InnoDB 存储引擎探秘@https://juejin.im/post/5c6e0f52f265da2d84107edf@14@0
-优化#索引#一篇文章搞定 MySQL 索引优化@https://juejin.im/post/5cbd7610f265da03587bfc19@19@2
 引擎#服务端指南 数据存储篇 | MySQL（02） 存储引擎的 InnoDB 与 MyISAM 之争@https://juejin.im/post/58eb9ce42f301e00625109fd@59@0
-锁#事务#MySQL 死锁套路：三个事务插入有一个回滚@https://juejin.im/post/5ce7345251882552183ebbc2@34@2
-其它#GitHub 的 MySQL 高可用性实践分享@https://juejin.im/entry/5b568e1e5188257bcb58fbe6@14@0
-引擎#Mysql引擎Innodb@https://juejin.im/entry/5bde50026fb9a049d05d2b9d@7@0
-其它#MySQL是如何做容器测试的？@https://juejin.im/entry/5ba834e5e51d450e935c579e@14@0
-面试#Java实现mysql横向数据面试题@https://juejin.im/post/5bab42c15188255c953834b1@22@1
-其它#MySQL系列-- 0. 随笔@https://juejin.im/post/59ec53396fb9a0451e3ef0cc@9@1
 事务#【从零开始学习MySql数据库】(4)创建表与增删改和数据库事务@https://juejin.im/post/5853fd6261ff4b00684daeb0@74@3
-索引#MySql索引@https://juejin.im/post/5d0d80c051882532d134bf33@6@0
-锁#事务#MySQL 死锁套路：三个事务插入有一个回滚@https://juejin.im/post/5ce7345251882552183ebbc2@34@2
-其它#PHP中的MySQL使用--基于PDO@https://juejin.im/post/5c8f6f2a6fb9a070b70be34d@10@2
-其它#MySQL是如何做容器测试的？@https://juejin.im/entry/5ba834e5e51d450e935c579e@14@0
-其它#MySQL 主从复制，双机热备@https://juejin.im/post/5ca2f93cf265da307261fae1@13@2
-面试#Java实现mysql横向数据面试题@https://juejin.im/post/5bab42c15188255c953834b1@22@1
-其它#mysql 8 如何重置 root 用户密码@https://juejin.im/post/5c05eaffe51d45546e2b5d4b@13@0
-其它#MySQL 到底能不能放到 Docker 里跑？@https://juejin.im/entry/5a03c2f25188253d681706f4@19@0
-其它#高性能MySQL架构@https://juejin.im/post/5d5764cd6fb9a06ace524c9b@9@2
-其它#MySQL8.0——Resource Group（资源组）@https://juejin.im/post/5b759a2851882533365d127b@9@0
-其它#再谈MySQL auto_increment空洞问题@https://juejin.im/entry/5a5c5a70f265da3e23667387@14@1
-其它#GitHub 开源的 MySQL 在线更改 Schema 工具@https://juejin.im/entry/57a2a79d2e958a0066798c0b@14@0
-锁#索引#MySQL 死锁套路：唯一索引 S 锁与 X 锁的爱恨情仇@https://juejin.im/post/5ce3cfa46fb9a07ece67a4a9@29@28
-其它#Mysql 到 Hbase 数据如何实时同步，强大的 Streamsets 告诉你@https://juejin.im/post/5c4aa7266fb9a049d61de727@30@0
-其它#MYSQL导入大量数据碰到的问题及解决方法@https://juejin.im/entry/5a7414b8f265da4e90167e75@29@0
-优化#自制小工具大大加速MySQL SQL语句优化(附源码)@https://juejin.im/post/5d008fad6fb9a07eea326af2@28@0
-其它#mysqls为node.js而编写的sql语句生成插件 crud for mysql.@https://juejin.im/post/5c219383e51d451be35e4376@24@1
-其它#MySQL 到底能不能放到 Docker 里跑？@https://juejin.im/entry/5a03c2f25188253d681706f4@19@0
-优化#4种MySQL分页查询优化的方法，你知道几个？@https://juejin.im/post/5d905039e51d45782d053ca3@29@5
-引擎#MySQL数据库存储引擎简介@https://juejin.im/post/5c8785baf265da2dd2190707@17@0
-其它#Spring Boot 与 Kotlin 使用JdbcTemplate连接MySQL@https://juejin.im/entry/5a65e69a518825732a6da0ee@10@0
-其它#从 SQL Server 到 MySQL （一）：异构数据库迁移@https://juejin.im/entry/5aa89b9a518825556f551d7d@17@0
-其它#MySQL 之 ROUND 函数四舍五入的陷阱@https://github.com/mylxsw/growing-up/blob/master/doc/MySQL%E4%B9%8BROUND%E5%87%BD%E6%95%B0%E5%9B%9B%E8%88%8D%E4%BA%94%E5%85%A5%E7%9A%84%E9%99%B7%E9%98%B1.md@13@0
-其它#使用Docker部署MySQL@https://juejin.im/post/5c8e25bdf265da67e43e8271@7@0
-其它#初涉全栈：Node+MySQL实现登录的简单功能@https://juejin.im/post/5d6694496fb9a06adb7ff441@28@26
-其它#MySQL痿了，放不下这么多数据！@https://juejin.im/post/5cff1c256fb9a07f050a5ec3@16@2
-其它#MySQL基于amoeba的读写分离及负载均衡@https://juejin.im/entry/596d71126fb9a06bbf70177c@17@0
-其它#MYSQL导入大量数据碰到的问题及解决方法@https://juejin.im/entry/5a7414b8f265da4e90167e75@29@0
-其它#容器中的mysql迁移RDS，会话却“爆了”@https://juejin.im/entry/5aea74d15188251cc953b6c6@13@1
-其它#mysqls为node.js而编写的sql语句生成插件 crud for mysql.@https://juejin.im/post/5c219383e51d451be35e4376@24@1
-其它#从 SQL Server 到 MySQL （三）：愚公移山 - 开源力量@https://juejin.im/post/5b2a4bd851882574e727095f@17@0
-优化#史上最全的MySQL高性能优化实战总结！@https://juejin.im/post/5b9ef7d8e51d450e894df459@24@1
-其它#MySQL · 8.0.0 新特性 · 持久化自增列值@https://juejin.im/entry/57e75ccdbf22ec00586e78ba@17@1
-其它#MySQL入门系列：数据的插入、删除和更新@https://juejin.im/post/5c8b17d9e51d45295b05a03e@18@1
-其它#Mysql之存储过程与存储函数@https://juejin.im/post/5cdc20ede51d453ce71f6113@13@0
-其它#(13)mysql 中的流程控制@https://juejin.im/post/5881969f2f301e006971cf9c@12@0
-其它#MySQL 数据库的字符集，要用 utf8mb4，而不是utf8@https://juejin.im/entry/5b234835e51d4558c2322aba@24@0
-引擎#锁#MySQL InnoDB引擎锁的总结@https://juejin.im/entry/5b455c6f5188251acd0f132d@9@1
-其它#解决一个mysql慢查询@https://juejin.im/entry/59c8a9595188257e7053416b@12@0
-锁#MySQL 死锁套路：一次诡异的批量插入死锁问题分析@https://juejin.im/post/5ce88b8fe51d45775a700279@29@7
-其它#11条MySQL规范，你知道的有几个？@https://juejin.im/post/5d663c6de51d453b8b5fa605@17@1
-其它#前端开发者学习后端（一） —— mysql 命令@https://juejin.im/post/5d671cc86fb9a06af13d7bfb@16@3
-其它#[PHP从小白到大牛]-022 PHP操作MySQL@https://juejin.im/post/5d54b21d518825219c28234f@13@0
-其它#Innobackupex MySQL 全备、增备及恢复@https://juejin.im/entry/5b4e909ee51d45198565a135@9@0
-其它#mysql 5.7 代价模型浅析@https://juejin.im/entry/57877bf95bbb5000648efe7a@12@0
-其它#让docker中的mysql启动时自动执行sql@https://juejin.im/entry/5acc0dd1f265da238b7e538c@12@0
-其它#MySQL 异步驱动浅析 （三）：连接池改进方案@https://juejin.im/post/597008f46fb9a06bc17c5621@23@0
-其它#ProxySQL实现MySQL读写分离@https://juejin.im/post/5b487a716fb9a04fdf39cd0b@12@0
-其它#Python与数据库的新人手册 -- MySQL@https://juejin.im/post/5c47445fe51d4552122cdda1@11@0
-其它#立足 Docker 运行 MySQL：多主机网络下 Docker Swarm 模式的容器管理@https://juejin.im/entry/57fb80bca0bb9f005844b5b3@26@0
-索引#MySQL索引（二）B+树在磁盘中的存储@https://juejin.im/post/5cef2c43e51d45572c05ffe3@16@0
-索引#MySQL 8 新特性之降序索引底层实现@https://juejin.im/post/5d11d923e51d45777b1a3dc4@24@0
-其它#MySQL中":="和"="的区别@https://juejin.im/post/5d4a2d53e51d4561a918502c@6@0
-其它#Mysql 8 新特性 window functions 有什么用？@https://juejin.im/entry/5a1fc8bef265da4332275b1f@16@0
-其它#如何安装与连接MySQL？@https://juejin.im/entry/59af8a6c6fb9a024a4046f88@11@1
-其它#揭秘：MySQL 8.0 InnoDB 有啥新玩意？@https://juejin.im/entry/5b88a725f265da43784bc596@11@0
-优化#网易MySQL中间件的负载均衡策略及性能优化@https://juejin.im/entry/5b58148ce51d45179b0ab6fa@24@0
-其它#MySQL-Cluster数据库集群测验@http://www.jianshu.com/p/d9b0fbccfa92@12@0
-其它#Mysql 8 新特性 window functions 有什么用？@https://juejin.im/entry/5a1fc8bef265da4332275b1f@16@0
-其它#揭秘：MySQL 8.0 InnoDB 有啥新玩意？@https://juejin.im/entry/5b88a725f265da43784bc596@11@0
-其它#(11)mysql 中的条件定义、处理@https://juejin.im/post/588047558d6d81006ccc6df7@11@0
-优化#网易MySQL中间件的负载均衡策略及性能优化@https://juejin.im/entry/5b58148ce51d45179b0ab6fa@24@0
-其它#利用Zipkin追踪Mysql数据库调用链@https://juejin.im/entry/5aefa827f265da0b7964c9bc@15@0
-锁#MySQL InnoDB 中的锁机制@https://juejin.im/post/5cd0eb17e51d453aa307c81c@8@0
-优化#实践分享 - MySQL优化 - 查询去年待流失客户的交易额@https://juejin.im/post/5c5167a2f265da61587787bf@26@9
-其它#MySQL入门学习笔记——七周数据分析师实战作业@https://juejin.im/entry/5a28afc1f265da431d3c9144@42@1
+优化#对一个26万数据MYSQL表的Yii2程序优化实战之一 【去糟粕、加缓存】@https://juejin.im/post/594a7a95ac502e006bc462ae@66@2
 其它#日均数据量千万级，MySQL、TiDB 两种存储方案的落地对比@https://juejin.im/entry/58c0c32b8ac2471814ac29bc@47@0
-优化#索引#服务端指南 数据存储篇 | MySQL（05） 索引的排序优化方案@https://juejin.im/post/58f763530ce463006bced069@39@0
-引擎#优化#MySQL性能优化（一）-- 存储引擎和三范式@https://juejin.im/post/5d12c825e51d4510664d1706@14@0
-其它#MySQL之查询数据的基本与复杂操作@https://juejin.im/entry/5ac87d0f6fb9a028d9376776@16@2
-优化#举个栗子看如何做MySQL 内核深度优化@https://juejin.im/post/5c21a4075188256d983317a6@19@1
-其它#mysql基础知识@https://juejin.im/post/5d6a0869f265da03925a5d7a@8@1
-其它#[译] 慎重选型：PG 还是 MySQL？Uber 的案例不能作为参考！@https://juejin.im/entry/57aa90c8128fe10054a18239@22@0
-引擎#揭秘 MySQL 存储引擎之 spider@https://juejin.im/entry/590a99800ce463005885cf46@10@0
-其它#linux下安装mysql@https://juejin.im/post/5abde62df265da23884d2b62@6@1
-锁#MySQL -- 行锁@https://juejin.im/post/5b567dcde51d4519133fb288@5@0
-其它#mysql 怎么通过 frm 和 ibd 文件还原数据@https://juejin.im/entry/58f08551a22b9d006ce61da9@15@0
-其它#mysql主从复制二@https://juejin.im/post/5d1f161de51d45572c0600af@7@0
-其它#react hooks + koa2 + mysql 博客重构@https://juejin.im/post/5d8592d95188256e3d7fc25a@11@5
-引擎#MySQL · 引擎特性 · InnoDB崩溃恢复@http://www.cnblogs.com/coderyuhui/p/7191413.html@11@0
-其它#Mysql批量大数据获取@https://juejin.im/post/5c80e00ef265da2da15de8dd@10@0
-其它#教你MySQL Binlog实用攻略@https://juejin.im/post/5c36c4d56fb9a049d4420256@10@0
-优化#MySQL数据库优化分析@https://juejin.im/post/5c9dbf8d51882524925f4ccc@10@0
-其它#ProxySQL+Mysql实现数据库读写分离实战@https://juejin.im/post/5b57ea25e51d4519520e82e9@19@0
-其它#阿里巴巴mysql数据库binlog的增量订阅&消费组件@https://juejin.im/entry/59acf37d5188252440125118@21@0
-其它#Mysql 8 来了，先谈安装@https://juejin.im/post/5bc89b3d6fb9a05cea7fbff0@7@1
-其它#后端开发：【批量插入海量数据之Java插入MySql】解决方案@https://juejin.im/post/59ce40896fb9a00a5143b612@37@0
-其它#开发者必备Mysql命令@https://juejin.im/post/5d00fd40f265da1bb67a11b3@10@2
-其它#使用koa搭建web服务，从路由到MySql@https://juejin.im/post/5d0ee268f265da1bc14b3215@11@3
-其它#grafana+prometheus快速搭建MySql监控系统实践@https://juejin.im/entry/5b73a1e351882552dc6bf942@20@2
-优化#Mysql大表优化方案@https://juejin.im/post/5b226d0151882574874d8661@7@0
-面试#索引#面试题：MySQL索引为什么用B+树？@https://juejin.im/post/5ce50d866fb9a07eb94f626c@20@7
-其它#MySql插入唯一键冲突的三种可选方式@https://juejin.im/entry/5b44a2805188251ac446cdb3@20@0
-其它#MySQL 异步驱动浅析 （二）：缺点分析@https://juejin.im/post/591bad16a0bb9f005f0ef3cb@12@0
+其它#MySQL入门学习笔记——七周数据分析师实战作业@https://juejin.im/entry/5a28afc1f265da431d3c9144@42@1
 锁#『MySQL』搞懂  InnoDB 锁机制 以及 高并发下如何解决超卖问题@https://juejin.im/post/5c8bd3ebf265da2db2797d92@41@2
-优化#在Ubuntu上使用MySQL设置远程数据库优化站点性能@https://juejin.im/post/5b73c81ff265da283d645a3a@19@0
-优化#MySQL数据库开发常见问题及优化@https://juejin.im/post/59f7e4ce518825569538f126@19@1
-其它#MySQL手工注入之基本注入流程@https://juejin.im/entry/5a657b98518825732739b8d0@13@0
-引擎#MySQL常见的两种存储引擎：MyISAM与InnoDB的爱恨情仇@https://juejin.im/post/5b1685bef265da6e5c3c1c34@19@5
-其它#后端开发：【批量插入海量数据之Java插入MySql】解决方案@https://juejin.im/post/59ce40896fb9a00a5143b612@37@0
-锁#[译]MySQL中InnoDB的锁分类@https://juejin.im/post/5cef617e518825095b331caf@7@0
-锁#MySQL锁机制@https://juejin.im/post/5ce8eee45188253114078f2a@5@0
-锁#【数据库】MySQL锁机制、热备、分表@https://juejin.im/post/5cc301bb6fb9a0323070d88b@10@0
-其它#使用go-mysql-elasticsearch同步mysql数据库信息到ElasticSearch@https://juejin.im/post/5d022578f265da1b86088237@7@0
-其它#mac打开mysql，navicat连接mysql@https://juejin.im/post/5b85fd106fb9a01a1b200c9f@4@0
-面试#索引#面试题：MySQL索引为什么用B+树？@https://juejin.im/post/5ce50d866fb9a07eb94f626c@20@7
-其它#SpringBoot+Jpa+MySql学习@https://juejin.im/post/5ac8604bf265da239612a31a@6@0
-其它#Mysql主从同步实战(一)【知其然】@https://juejin.im/post/5c9d8109f265da612f1bb019@9@3
-其它#MySql插入唯一键冲突的三种可选方式@https://juejin.im/entry/5b44a2805188251ac446cdb3@20@0
-其它#使用 FPGA 加速 MySQL@https://juejin.im/entry/57beb5d6a633bd005d548e12@6@0
-优化#在Ubuntu上使用MySQL设置远程数据库优化站点性能@https://juejin.im/post/5b73c81ff265da283d645a3a@19@0
-锁#『MySQL』搞懂  InnoDB 锁机制 以及 高并发下如何解决超卖问题@https://juejin.im/post/5c8bd3ebf265da2db2797d92@41@2
-优化#MySQL性能优化（十）-- 主从复制@https://juejin.im/post/5d196b17e51d455d6c0ad970@9@4
-其它#MySQL之综合实践【从基础到进阶】 - ic翼@https://juejin.im/entry/5ae33ff1518825670d72d879@12@0
-其它#用Golang写爬虫(八) - 使用GORM存入MySQL数据库@https://juejin.im/post/5d3683fdf265da1bb31c7750@12@0
-其它#GitHub 的 MySQL 基础架构自动化测试@https://juejin.im/entry/59e5b50f5188257e11311a50@12@0
-其它#Mysql可重复读（1） —— 快照何时创建@https://juejin.im/post/5c50042cf265da61290a8c31@12@0
-其它#用Golang写爬虫(八) - 使用GORM存入MySQL数据库@https://juejin.im/post/5d3683fdf265da1bb31c7750@12@0
-其它#Mysql可重复读（1） —— 快照何时创建@https://juejin.im/post/5c50042cf265da61290a8c31@12@0
-其它#MySQL·5.6以前对timestamp的一些限制@https://juejin.im/post/5bf7f342518825741e7bce46@9@2
-其它#大而全、小而美，品 PG 和 MySQL 间的 “爱恨情仇”@https://juejin.im/entry/57e75cc867f3560057981dae@12@0
-其它#MySQL 创始人：写代码比打游戏还爽！@https://juejin.im/post/5bc33fcff265da0abf7d0ec8@9@2
-优化#索引#性能调优-MySQL索引数据结构详解与索引优化@https://juejin.im/post/5d63348ae51d453b1e478ae3@19@3
-其它#mysql数据恢复，binlog详解@https://juejin.im/post/5d39839d6fb9a07ee74322ff@9@0
-其它#MySQL查询取别名报错@https://juejin.im/post/5c76a4f3f265da2da53edd56@9@1
-其它#MySQL 性能调优专题二（Explain执行计划使用详解）@https://juejin.im/post/5ce61072f265da1b5e72cb20@17@0
-其它#从 MySQL 中的 double write 问题说开去@https://juejin.im/entry/58f193b4a0bb9f006a9181ff@9@0
-其它#记一次MySQL数据库拒绝访问的解决过程@https://www.chyingp.com/posts/mysql-access-denied-because-of-anonymous-user/@16@0
-其它#用Python+MySQL实现2017年web日志分析报告@https://juejin.im/entry/5a531bb76fb9a01c9525ee0c@12@0
-其它#MySQL 源码学习： concat + outfile 的 bug 原因分析@https://juejin.im/entry/57997282d342d30057f077f2@9@0
-其它#服务端指南 数据存储篇 | MySQL（06） 数据库安全性@https://juejin.im/post/58f8d5395c497d0058e6cd82@30@0
-其它#MySQL：为什么查询列表中多了它，GROUP BY语句就会报错呢？@https://juejin.im/post/5d64d704e51d45620b21c3f4@31@18
-其它#网络与MySQL的速度与激情@https://juejin.im/post/5d86d5b3f265da03be49164e@6@0
-其它#Asyncdb（一）：写一个纯函数式的Mysql异步驱动@https://juejin.im/post/59db06d46fb9a00a554fd924@12@0
-其它#MySQL在删除表时I/O错误原因分析@https://juejin.im/post/5b5e878af265da0f6825e0e5@11@0
-其它#MySQL 8 Set or reset user password@https://juejin.im/entry/5b06698cf265da0db3501fdd@5@0
-事务#MySQL 事务隔离级别解析和实战@https://juejin.im/post/5c88d74af265da2d8d6a1c58@11@0
-其它#PostgreSQL MySQL 数据类型映射	@https://juejin.im/entry/589d6a410ce46300562c705e@8@0
-其它#MySQL安装（Mac版）@https://juejin.im/post/5cc2a52ce51d456e7079f27f@5@0
-其它#Django+MySQL 实例入门@https://juejin.im/post/5bf6e6a0e51d455c56057a46@6@0
-锁#MySQL中的行级锁定@https://juejin.im/post/5cbf0a426fb9a031ee3c131b@6@1
-其它#一个MySQL 5.7 分区表性能下降的案例分析@https://mp.weixin.qq.com/s?__biz=MjM5MDI3MjA5MQ==&mid=2697266477&idx=1&sn=2ee075b1a04753b034510b4c88934b22&chksm=8376fa19b401730f672ef0926c1e9d8e46b37304b9fb2f487a95e8403ce0019f45d5e43de70e&mpshare=1&scene=1&srcid=09146CKEkxF5lWbV3rBLEcPN&pass_ticket=22SDd@16@0
-其它#Linux 上将 txt 导入 mysql@https://juejin.im/entry/5be2446de51d45154a4d1eda@6@0
-其它#利用Zipkin追踪Mysql数据库调用链@https://juejin.im/post/5aef910f51882567244de36d@11@0
-其它#10 个开发者必知的 MySQL 8.0 新功能@https://juejin.im/post/5d6e5d4f6fb9a06af372d517@8@2
-其它#MySQL 8 Set or reset user password@https://juejin.im/entry/5b06698cf265da0db3501fdd@5@0
-锁#Mysql锁机制简单了解一下@https://juejin.im/post/5b192314e51d45067d407822@8@0
-其它#python的mysql链式操作，SQL构建器，告别原生写法@https://juejin.im/post/5cde801df265da1bc64b9089@15@8
-其它#程序员的MySQL攻略@https://juejin.im/post/5d0c9f966fb9a07eba2c44fa@6@0
-其它#一个高性能MySQL Proxy(kingshard)性能测试和分析报告@https://juejin.im/entry/565253d860b259caed8f2c07@17@1
-其它#一次 JDBC 与 MySQL 因 “CST” 时区协商误解导致时间差了 14 或 13 小时的排错经历@https://juejin.im/post/5902e087da2f60005df05c3d@30@12
-事务#MySQL 事务隔离级别解析和实战@https://juejin.im/post/5c88d74af265da2d8d6a1c58@11@0
-其它#SQL 注入系列之 PHP+Mysql 手动注入 ---- 搜索型 (POST/GET)@https://juejin.im/entry/590424b3ac502e0063e08feb@14@0
-索引#前大众点评资深研发专家对Mysql索引的解析与底层数据结构的解刨@https://juejin.im/post/5ad4ba2d6fb9a028cd4593ab@29@2
-其它#MySQL 和 MongoDB 对比，一文看全@https://juejin.im/entry/5a18b88951882554b8373e20@6@0
-引擎#MySql存储引擎@https://juejin.im/post/5d3cfe25f265da1b695da831@5@0
-其它#如何实现MySQL运维体系建设@https://juejin.im/post/5bf21b32f265da612859b876@10@0
-其它#一个因MySQL大小写敏感导致的问题@https://juejin.im/post/5d01235af265da1bc4144c42@10@0
-引擎#MySql存储引擎@https://juejin.im/post/5d3cfe25f265da1b695da831@5@0
-其它#MySQL增强（Loss-less）半同步复制@https://juejin.im/post/5b759a6ef265da27ff269307@8@0
-其它#Mysql相关操作@https://juejin.im/post/5d2c8bca6fb9a07ef710a521@5@1
-其它#大数据导入之 MySql 设计之空间换时间的设计变更@https://juejin.im/entry/59031bd6a22b9d0065d0556a@31@0
-其它#浅谈MySQL的整体架构@https://juejin.im/post/5ce244f8f265da1bab297ffa@8@0
-其它#三思！大规模MySQL运维陷阱之基于MyCat的伪分布式架构@https://juejin.im/entry/5baee8b25188256bab296b5e@27@2
-其它#MySQL常用操作记录@https://juejin.im/post/5d187fb7f265da1b904bf7a1@6@0
-其它#PHP爬虫 -- 011 PHP勾搭MySQL@https://juejin.im/post/5d2b16fdf265da1bb13f60e5@6@0
-其它#mysql主从复制详解一@https://juejin.im/post/5d09e562f265da1b7c611cda@8@0
-其它#MySQL入门系列：查询简介（七）之组合查询@https://juejin.im/post/5c89c3efe51d4552f05bb3e3@16@1
-其它#腾讯工程师带你深入解析 MySQL binlog@https://juejin.im/post/5a72c2daf265da3e5234d879@10@0
-其它#埋在 MYSQL 数据库应用中的17个关键问题！@https://juejin.im/entry/5bff372c6fb9a049a81f06e1@14@1
-其它#吐血总结｜史上最全的MySQL学习资料！！@https://juejin.im/post/5c91ac636fb9a071012a0c28@10@0
-其它#MySQL 的初次见面礼基础实战篇 - zejian 的博客 - 博客频道 - CSDN.NET@https://juejin.im/entry/58ead66f61ff4b0061a65a85@27@0
-其它#OpenMDMServer - 基于 Java（SpringMVC＋Hibernate ＋MySQL）的 iOS 移动设备管理@https://juejin.im/entry/57981b3bc4c9710054338d75@11@0
-其它#Postgresql与MySQL的区别@https://juejin.im/entry/5c8f60d96fb9a0710d65c8da@4@0
-锁#MySQL锁系列之锁的种类和概念@https://juejin.im/post/5cc27d54e51d456e7079f27a@8@1
-其它#使用 PHP 的 PDO 类操作 MySQL@https://juejin.im/post/5b18a57d6fb9a01e82262010@6@1
-其它#[MySQL光速入门]002 建库, 建表, 加数据@https://juejin.im/post/5cb7eba6f265da038c020d24@10@2
-其它#Mysql系列二 mysql语法总结@https://juejin.im/entry/5a5f3a8b6fb9a01c927eba77@4@0
-锁#MySQL锁系列之锁的种类和概念@https://juejin.im/post/5cc27d54e51d456e7079f27a@8@1
-其它#[MySQL光速入门]002 建库, 建表, 加数据@https://juejin.im/post/5cb7eba6f265da038c020d24@10@2
-其它#Postgresql与MySQL的区别@https://juejin.im/entry/5c8f60d96fb9a0710d65c8da@4@0
-锁#大招落地：MySQL 插入更新死锁的根因分析@https://juejin.im/entry/5d35891d5188252bb865ce1c@16@1
-其它#使用 PHP 的 PDO 类操作 MySQL@https://juejin.im/post/5b18a57d6fb9a01e82262010@6@1
-其它#Mysql基础语句+数据类型实例@https://juejin.im/post/5c7d1691e51d45751c3ff10b@10@0
-其它#这一次，彻底读懂Mysql执行计划@https://juejin.im/post/5a52386d51882573443c852a@9@0
-其它#MySQL并发更新数据时的处理方法@https://juejin.im/post/5cdec02ce51d45109618dc36@7@0
-其它#MySql_基本操作@https://juejin.im/post/5d25e9dfe51d4556d86c7b53@5@3
-其它#向日葵技术总监：国内首例谈MySQL InnoDB memcached plugin实践@http://news.ifeng.com/a/20170904/51867207_0.shtml@15@1
-其它#Read MySQL Client's File@https://juejin.im/entry/5bf292cde51d453b8e54485e@4@0
-其它#MySQL 5.7原生JSON格式支持@https://juejin.im/entry/5a2f38d26fb9a045284672de@7@0
-其它#MySQL EXPLAIN结果集分析 - 附带大量案例@https://juejin.im/post/5d75abcb6fb9a06b0d7cabb3@10@0
-其它#别逗了，你真以为 MySQL 分库分表支持服务无限扩容吗？@https://juejin.im/post/5ce96c2cf265da1bb564d484@15@11
-其它#架构成长之路：常见的五种MySQL高可用方案分析@https://juejin.im/post/5cb58a82e51d456e46603e0e@14@0
-其它#koa+mysql+vue+socket.io全栈开发之数据访问篇@https://juejin.im/post/5caee312e51d456e770bdc89@13@3
-其它#北冥有 Data，其名为鲲，鲲之大，一个 MySQL 放不下！@https://juejin.im/post/5d11dfc6e51d4510727c80c9@13@6
-其它#从排序原理到MYSQL中的排序方式-gaopengtttt@https://juejin.im/entry/5a1fa00e6fb9a0451c3a2c7c@10@0
-其它#MySQL每秒57万的写入，带你飞~@https://juejin.im/entry/5c0734f76fb9a04a0f64f4a1@7@0
-索引#还不懂MySQL索引？这1次彻底搞懂B+树和B-树@https://juejin.im/post/5d6687e7f265da03af19e4da@13@1
-其它#深入浅出MySQL crash safe@https://juejin.im/post/5cfe10a7f265da1bd3054e17@5@0
-优化#MySQL性能优化（七）-- 慢查询@https://juejin.im/post/5d1576846fb9a07ef3767b1e@7@0
-其它#Pinterest公司开源内部MySQL数据库管理工具@https://juejin.im/entry/56494a5a60b20fc970b981f5@12@0
-其它#MySQL学习 - 基准测试@https://juejin.im/entry/5ccabfc3e51d453b7f0a0d34@7@0
-其它#[MySQL光速入门]003 留点作业...@https://juejin.im/post/5cb7ebf6f265da03474dfaa8@7@0
-其它#使用go-sniffer监控mysql、redis执行命令@https://juejin.im/entry/5bff6d26f265da6174648d46@9@0
-其它#基于Swoole2协程特性实现的MySQL连接池@https://juejin.im/entry/5955c026f265da6c20416e56@9@0
-其它#详解MySQL的日志@https://juejin.im/post/5d1e0c4cf265da1b6d40434d@4@1
-其它#golang实现mysql数据库备份@https://juejin.im/entry/5b31a9bb6fb9a00e7b5b1dec@7@0
-索引#从萌新的角度理解Mysql索引基本原理@https://juejin.im/post/5bc01dd3e51d450e62383429@13@0
-其它#springboot实现读写分离(基于Mybatis，mysql)@https://juejin.im/post/5cf488ffe51d457778117347@7@1
-其它#centos+docker+mysql 配置与应用@https://juejin.im/post/5c000b455188251b8a2700c6@5@0
-其它#CentOS安装MySQL详解@https://juejin.im/post/5d07cf13f265da1bd522cfb6@5@2
-其它#MySQL 基础架构你不知道的那些事！@https://juejin.im/post/5cf244246fb9a07edf272c6f@12@0
-其它#MySQL基础概念@https://juejin.im/post/5ca02536518825478217c88f@4@0
-其它#干货 | MySQL到底能不能放到 Docker 里跑？同程旅游竟这么玩@https://juejin.im/entry/5bc70292f265da0ad13badb0@21@2
-其它#MySql 按周、日、月 、年统计@https://juejin.im/post/5a7539e3f265da4e9518b90c@5@0
-优化#一个 mysql 优化技巧的误区@https://juejin.im/entry/58f479308d6d810057b84dd7@7@0
-引擎#优化# MySQL · 引擎特性 · MySQL5.7 崩溃恢复优化@https://juejin.im/entry/583e6a9cac502e006c350f60@4@0
-其它#基于docker安装MySQL@https://juejin.im/post/5babba8e5188255c960c3c63@4@0
-其它#MySQL 中字符串字段，在使用 in 时，没有加引号时的性能陷阱@http://moell.cn/article/33@20@2
-锁#索引#MySQL 死锁套路：唯一索引下批量插入顺序不一致@https://juejin.im/post/5ce63f8ee51d45775d516ee9@22@0
-其它#干货 | MySQL到底能不能放到 Docker 里跑？同程旅游竟这么玩@https://juejin.im/entry/5bc70292f265da0ad13badb0@21@2
-其它#MySql数据库操作@https://juejin.im/post/5d4636faf265da03aa255115@5@0
-其它#应用CVE： 最新的Mysql高危漏洞介绍@https://juejin.im/entry/5a719917f265da3e283a5397@8@0
-优化#MySQL设计与优化@https://juejin.im/post/5b8695d9f265da431e7b8e77@4@0
-其它#Mysql中的数据类型@https://juejin.im/post/5d3bb0245188252c184b8931@5@2
-面试#面试官：说说Mysql数据库分库分表，并且会有哪些问题？@https://juejin.im/post/5cbefbe66fb9a031e9751ec2@22@1
-其它#node+express+mysql入门@https://juejin.im/post/5adeccca6fb9a07ab83da98c@4@0
-其它#CentOS 7 - 安装MySQL 5.7@https://juejin.im/post/5c088b066fb9a049d4419985@4@0
 其它#服务端指南 数据存储篇 | MySQL（09） 分库与分表带来的分布式困境与应对之策@https://juejin.im/post/591088d72f301e0057e27d8b@52@2
-其它#Mysql主从复制原理及搭建@https://juejin.im/post/5d5e2adef265da03c02c0829@6@0
-其它#MySQL与TiDB基础知识类比@https://juejin.im/post/5d579aae51882565df2485b2@6@0
-优化#索引#MySql优化之索引原理与 SQL 优化@https://juejin.im/post/5d3423c35188252bd255de32@6@0
-其它#MySQL学习笔记 初学基础篇@https://juejin.im/post/5cf5d75ff265da1b9612f009@6@1
-其它#[MySQL光速入门]007 作业解答@https://juejin.im/post/5c9b301f518825529a0c78ff@6@0
-索引#MySQL实验: 实践索引对全列匹配、最左前缀匹配、范围查询等条件的影响以及了解脏读、幻读等@https://juejin.im/post/5bc2fb6ae51d450e76335974@54@3
-索引#Mysql索引原理及各种tree的比较@https://juejin.im/post/5cdbd045e51d456e51614b9f@6@0
-其它#MySQL与TiDB基础知识类比@https://juejin.im/post/5d579aae51882565df2485b2@6@0
-索引#Mysql索引原理及各种tree的比较@https://juejin.im/post/5cdbd045e51d456e51614b9f@6@0
-索引#MySQL实验: 实践索引对全列匹配、最左前缀匹配、范围查询等条件的影响以及了解脏读、幻读等@https://juejin.im/post/5bc2fb6ae51d450e76335974@54@3
-其它#mysql基础@https://juejin.im/post/5ca8640cf265da3092006b14@3@0
-其它#MySQL的一条查询和更新语句是怎样实现的@https://juejin.im/post/5cc657966fb9a0320b40e100@10@2
-其它#MySQL入门系列：存储程序（一）之自定义变量简介@https://juejin.im/post/5c9080b66fb9a070b153de7d@11@0
-其它#MySql入门@http://blog.csdn.net/jokey_wz/article/details/78720741@3@0
-其它#教大家使用Nodejs+Mysql+React写一个掘金和csdn优质文章的爬虫网站@https://juejin.im/post/5d09924e6fb9a07f050a6be3@19@5
-锁#记一次Mysql并发"死锁"，引出的问题及讨论@https://juejin.im/post/5d0af0fa6fb9a07edc0b5bf5@8@3
-其它#Mysql DDL出现长时间等待MDL问题分析@https://juejin.im/post/5c81bdd16fb9a049ef276037@11@0
-其它#MySQL 8.0新特性：彻底解决困扰运维的复制延迟问题，你信吗？@https://juejin.im/entry/5b72680bf265da2838137480@16@0
-其它#Spring Boot入门(六)：使用MyBatis访问MySql数据库(注解方式)@https://juejin.im/post/5cc6b950f265da03aa4db4ee@10@6
-其它#这样做数据清理，可以避免引发MySQL故障@https://juejin.im/entry/5bc00fb9e51d450e8f5fe0b5@10@0
-其它#提高性能，MySQL 读写分离环境搭建(二)@https://juejin.im/post/5cd8d43ee51d456e2446fd82@10@0
-其它#一起MySQL时间戳精度引发的血案@https://juejin.im/post/5d739e3af265da03d1557665@7@1
-其它#mysql到elasticsearch数据迁移踩坑实践-Ali0th@https://juejin.im/post/5ce3948551882532ea6d771a@7@4
-锁#优化#MySQL性能优化（八）-- 锁机制之表锁@https://juejin.im/post/5d1603d6e51d455c8838e1a7@6@0
-锁#MySQL -- 表锁@https://juejin.im/post/5b567c0f6fb9a04fc0310d44@3@0
-其它#NestJS 6.x折腾记- (0) 开胃菜, TypeORM 连接远程的MySQL(ssh tunnel)及Linux信息过滤裁切基础@https://juejin.im/post/5c088c5de51d453428652c60@17@5
-面试#2019BATJ面试题汇总详解：MyBatis+MySQL+Spring+Redis+多线程@https://juejin.im/post/5c6d5aa06fb9a049b13ecb1a@10@5
-其它#Why PostgreSQL Instead of MySQL 2009 - PostgreSQL wiki@https://juejin.im/entry/59a4d133518825243507a98d@4@0
-其它#yahoo的mysql性能分析工具@https://juejin.im/entry/55669a7fe4b06f7ccc205747@6@0
-锁#MySQL -- 表锁@https://juejin.im/post/5b567c0f6fb9a04fc0310d44@3@0
-其它#MYSQL中的COLLATE是什么？@https://juejin.im/post/5bfe5cc36fb9a04a082161c2@4@0
-事务#MySQL事务原理浅析@https://juejin.im/post/5afd21eaf265da0b7d0b95e6@4@0
-优化#对一个26万数据MYSQL表的Yii2程序优化实战之二 【开刀数据表】@https://juejin.im/post/594cf5d0f265da6c4f34aa79@18@0
-其它#MySQL 使用 AES 加解密資料、PHP 產生相容 MySQL 的加解密效果@https://juejin.im/entry/59f2b04f6fb9a0450b65a134@6@0
-索引#MySQL 索引机制背后的隐藏之道@https://juejin.im/post/5cd239fce51d456e7079f2e3@7@0
-面试#2019BATJ面试题汇总详解：MyBatis+MySQL+Spring+Redis+多线程@https://juejin.im/post/5c6d5aa06fb9a049b13ecb1a@10@5
 其它#手把手教你从头搭建 web 服务器及 lemp 环境 (使用 ubuntu16.04+nginx+mysql+php) | 令狐葱 @前端笔记@https://juejin.im/entry/57b69ad21532bc005b8bcf32@58@1
-其它#探究MySQL各类文件@https://juejin.im/post/5d083c386fb9a07ecc44868e@4@0
-其它#MySQL 高可用之MHA（一）@https://juejin.im/post/5c6e0f7b6fb9a049e82c1dd7@4@0
-其它#SpringBoot+MySQL+MyBatis的入门教程@https://juejin.im/post/5cad7d1af265da03893278a9@5@3
-其它#简谈MySQL主从复制读写分离与高可用配置@https://juejin.im/post/5d3abef05188253ad716f53e@10@0
-其它#高性能MySQL-笔记@https://juejin.im/post/5a223d1df265da43104831c9@5@0
-其它#[译] MySQL UTF-8 使用请注意@https://juejin.im/entry/5cf5d5106fb9a07ee27b013f@5@1
-其它#轻量应用服务器MySQL远程连接踩坑@https://juejin.im/post/5b89667de51d4538843638c8@9@4
-其它#docker安装mysql@https://juejin.im/post/5c9f77f06fb9a05e2811d805@3@0
-其它#MNMP (Mac + Nginx + MySQL + PHP) 开发环境搭建 @https://juejin.im/post/5a30d03a6fb9a04503101366@5@0
-其它#MySQL8.0之跳跃范围扫描@https://juejin.im/post/5c948a7be51d4526636238ad@5@0
-其它#高性能Mysql 入门到放弃 之 B+-Tree (与B-Tree以及Binary Tree的对比解析)@https://juejin.im/post/5b25bc1051882574b00fb7da@9@4
-其它#浅谈MySQL集群高可用架构@https://juejin.im/entry/5b580b206fb9a04fc0311106@5@0
-其它#【呕心总结】python如何与mysql实现交互及常用sql语句@https://juejin.im/post/5d8e0f2af265da5b7c4515ec@8@3
-其它#MySQL学习 - 查询的执行过程@https://juejin.im/post/5ccd1f61e51d453a4a357e3e@5@0
-其它#学习如何统计 Mysql 服务器状态信息@https://juejin.im/entry/5d172e5ae51d4510624f9813@8@1
-其它#mysql 中 int(5) 到底有是多长？@https://juejin.im/post/5c43e62e51882523ea6e009f@5@0
-其它#一篇文章带你掌握mysql的一致性视图（MVCC）@https://juejin.im/post/5d4a98b56fb9a06ae071ed8a@9@0
-其它#为什么你的MySQL性能差？死代码牵连问题解决了吗？@https://juejin.im/entry/5b85fc646fb9a019f928d7b9@14@0
-其它#[MySQL光速入门]008 SQL强化练习@https://juejin.im/post/5cb7f07bf265da0359486b84@5@0
-其它#Java应用集群下的定时任务处理方案(mysql)@https://juejin.im/post/5cd1270151882535b94b20ff@9@6
-事务# MySQL 8.0 —— CATS事务调度算法的性能提升@https://juejin.im/post/5b7599e2e51d45665543b50f@6@0
-其它#Centos7安装MySQL@https://juejin.im/post/5c4a874c6fb9a049d05e18a6@3@0
-其它#【MySQL经典案例分析】关于数据行溢出由浅至深的探讨@https://juejin.im/post/5c2449c96fb9a049a711de1f@15@0
-其它#[MySQL光速入门]016 图解变量@https://juejin.im/post/5cb7fc97f265da03a54c1612@5@3
-其它#立足 Docker 运行 MySQL：多主机网络下 Docker Swarm 模式的容器管理@https://juejin.im/entry/57fb0879a22b9d005b02ec9e@9@0
-锁#死磕 java同步系列之mysql分布式锁@https://juejin.im/post/5d93f648f265da5bb746457b@6@0
-其它#koa2+vue+mysql 全栈开发记录@https://juejin.im/post/5cd93c47e51d453aa10dff6c@5@4
-其它#数据库MySQL一般查询日志或者慢查询日志历史数据的清理@https://juejin.im/post/5b63baf2e51d4519115d4b51@13@0
-其它#CentOS下安装mysql@https://juejin.im/post/5c0f580ae51d4530e4145825@3@0
-其它#数据库递归查询：MySQL VS Sequelize@https://juejin.im/post/5cb5445b5188251b14579dbe@5@5
-其它#数据库管理工具神器-DataGrip,可同时管理多个主流数据库[SQL Server,MySQL,Oracle等]连接@https://juejin.im/entry/5a41e5b9f265da432241735c@32@2
-优化#MYSQL优化数据库对象@https://juejin.im/post/5d1eb1765188256d525ff6c8@5@0
-其它#CentOS下安装mysql@https://juejin.im/post/5c0f580ae51d4530e4145825@3@0
-优化#MySQL性能优化（五）-- using filesort@https://juejin.im/post/5d1416166fb9a07eea328312@4@1
-其它#Windows操作系统安装MySQL解压版@https://juejin.im/post/5c878687f265da2db414606e@6@2
-其它#SpringBoot项目中使用flyway进行MySQL数据库版本控制@https://juejin.im/post/5d2ecf30f265da1b8333c327@9@2
-其它#koa,node,express通用方法连接mysql@https://juejin.im/post/5bed31d76fb9a049aa6ea59c@5@0
-其它#Mac下安装Mysql@https://juejin.im/post/5a754fb3518825365226d4dc@3@0
-其它#MySQL 复制 - 性能与扩展性的基石 2：部署及其配置@https://juejin.im/post/5ca35c1351882543d061b961@8@0
-其它#Gin(五):连接MySQL@https://juejin.im/post/5d30027de51d4556dc2936ed@3@0
-其它#数据库（MySQL）@https://juejin.im/post/5cb69268f265da039444a191@3@0
-其它#MySQL存储的字段是不区分大小写的，你知道吗？@https://juejin.im/post/5d08d9faf265da1b8e70a229@8@2
-其它#mysql总结知识@https://juejin.im/entry/5d172dbf6fb9a07ea803df64@3@0
-锁#MySQL锁相关@https://juejin.im/post/5cb3f4926fb9a0689677998c@3@0
-优化#mysql基本知识点梳理和查询优化@https://juejin.im/entry/5bf25fe451882530d44b3b73@8@0
-其它#我的开源项目汇总(机器&深度学习、NLP、网络IO、AIML、mysql协议、chatbot)@https://juejin.im/entry/5be04fd66fb9a049cd53a692@13@0
-其它#数据库之mac上mysql root密码忘记或权限错误的解决办法@https://juejin.im/post/59f6f7166fb9a045000254d0@12@2
-其它#MySQL 分表后，真的就万事大吉了吗？@https://juejin.im/post/5d640a9fe51d4561f17a50eb@5@0
-锁#XtraBackup不停机不锁表做MySQL主从复制的试验@https://juejin.im/post/5ca482ebf265da309c584880@6@0
-其它#mysql安装 for Linux@https://juejin.im/post/5c76500ae51d453ed47d7555@3@0
-其它#Linux系统搭建Java环境【JDK、Tomcat、MySQL】一篇就够@https://juejin.im/post/5d67cb275188256db064474d@6@0
-其它#基于 Docker 结合 Canal 实现 MySQL 实时增量数据传输@https://juejin.im/post/5d282f57e51d45590a445bcd@8@0
-其它#一个用 Go 语言开发的分布式 MySQL Binlog 存储系统@https://juejin.im/entry/5c2d6ac0e51d4516c73cdf5d@7@0
-其它#用python解决mysql视图导入导出依赖问题@https://juejin.im/entry/5a334629f265da432840e6c9@7@0
-其它#一条 MySQL 语句完成产品运营的导出和更新数据的需求（持续更新）@https://housanpai.com/articles/18@14@0
-其它#MySQL - 扩展性 3 负载均衡：眼花缭乱迷人眼@https://juejin.im/post/5caf2d326fb9a0688144ede3@7@0
-其它#提高性能，MySQL 读写分离环境搭建(一)@https://juejin.im/post/5cd3b680f265da03867e6a74@7@0
-其它#Node.js 如何简洁优雅的访问 MySQL 数据库@https://juejin.im/post/5d43a5155188255d8f516baa@7@0
-引擎#MySQL存储引擎知多少@https://juejin.im/entry/5bee0964518825604e0e4437@4@0
-事务#MySQL 事务隔离实验-认识：脏读、不可重复读、幻读@https://juejin.im/post/5ba0c3a6e51d450e597b2fb4@7@1
-优化#项目中常用的19条MySQL优化@https://juejin.im/entry/5a1d31f4f265da4304065caf@4@0
-索引#MySQL 实验: 实践索引对全列匹配、最左前缀匹配、范围查询等条件的影响以及了解脏读、幻读等 - Web 开发笔记@https://juejin.im/entry/5bc2fdc9e51d450e6160678e@27@1
-其它#面试#索引#面试官：为什么 MySQL 索引要使用 B+树而不是其它树形结构？比如 B 树？@https://juejin.im/post/5d519d576fb9a06b2116dce4@13@1
-其它#MySQL字符集乱码与解决方案@https://juejin.im/post/5ca55f13f265da309651a80a@4@0
-优化#秃顶总结MySQL 最全性能优化方式@https://juejin.im/post/5cc84cb6518825250e146c61@5@0
-其它#使用MyCat实现MySQL读写分离@https://juejin.im/post/5d08f538f265da1bcf5ddeb3@4@1
-其它#[MySQL光速入门]005 查询数据@https://juejin.im/post/5cb7ee04f265da035d0c74ba@4@0
-事务#MySQL事务之隔离性@https://juejin.im/post/5d1074daf265da1b6e65aee0@4@0
-其它#MySQL 执行过程@https://juejin.im/post/5cd2e875518825412c650b2a@3@0
-面试#BAT18道MySQL经典面试题含答案@https://juejin.im/entry/5d8390cf518825064b2cf087@5@1
-面试#Linux运维必会的MySQL企业面试题大全@https://juejin.im/post/5aab5f30f265da239c7b1c0b@5@0
-优化#索引#MySQL 如何创建索引？怎么优化？@https://juejin.im/post/5b17ef6a6fb9a01e8564210e@4@0
-其它#golang系列教程（七）—— 和mysql打交道@https://juejin.im/post/5d5a8a915188257cf06b73ca@4@0
-其它#如何在OpenStack中轻松部署MySQL应用@https://juejin.im/post/5b27ae2be51d4558d8430bb1@5@0
-其它#MySQL数据库设计规范@https://juejin.im/entry/5bcc69186fb9a05d3447f5a3@4@1
-其它#自动定时备份 mysql 数据库 的 shell 脚本@https://juejin.im/post/5cb3396bf265da0373717876@7@0
-其它#golng mysql库连接池分析@https://juejin.im/post/5d7dec5c6fb9a06add4e5d40@4@0
-其它#MySQL 8.0.4 RC 发布，带来大量新特性和改进@https://juejin.im/entry/5a6943655188256922633e9d@7@0
-其它#MySQL字符集乱码与解决方案@https://juejin.im/post/5ca55f13f265da309651a80a@4@0
-其它#再谈MySQL全库备份@https://juejin.im/post/5d03a6b7e51d454d1d62850d@3@0
-其它#Mysql都支持哪些数据类型？@https://juejin.im/post/5d1cc3426fb9a07ef90cb5ef@4@1
-其它#MySQL延迟问题和数据刷盘策略@https://juejin.im/post/5d1c5aba51882537322523eb@4@0
-优化#秃顶总结MySQL 最全性能优化方式@https://juejin.im/post/5cc84cb6518825250e146c61@5@0
-事务#MySQL事务之隔离性@https://juejin.im/post/5d1074daf265da1b6e65aee0@4@0
-其它#Docker新手教程（07）Docker与MySQL@https://juejin.im/post/5cb832f06fb9a068ad1b1739@3@0
-其它#RDS for MySQL 如何使用 Percona Toolkit@https://juejin.im/entry/58fda045570c350058e6a678@4@0
-锁#通过MySQL存储原理来分析排序和锁@https://juejin.im/post/5cadd74af265da039c053a4f@5@1
-其它#MySQL 高可用之MHA（二）@https://juejin.im/post/5c6e1069e51d456c0e73435d@3@1
-其它#用了那么多年MySQL不知道Explain？怪不得性能那么差！@https://juejin.im/post/5d0c3c4f6fb9a07ee9587756@11@0
-其它#用了那么多年MySQL不知道Explain？怪不得性能那么差！@https://juejin.im/post/5d0c3c4f6fb9a07ee9587756@11@0
-锁#通过MySQL存储原理来分析排序和锁@https://juejin.im/post/5cadd74af265da039c053a4f@5@1
-其它#[MySQL光速入门]006 留点作业...@https://juejin.im/post/5cb7ef3ff265da039a3d68b5@4@0
-其它#Koa+Mysql2+GraphQL脚手架 koa-shelf@https://juejin.im/post/5c93a526f265da611c556ec3@4@2
-其它#MySQL 高可用之MHA（二）@https://juejin.im/post/5c6e1069e51d456c0e73435d@3@1
-其它#用Docker搭建外部可以访问的mysql@https://juejin.im/post/5d6f09446fb9a06acf2b7803@4@0
-索引#浅析MySQL InnoDB中的B+树索引@https://juejin.im/post/5c3b22a1f265da61776c2bf2@4@0
-锁#详解 MySql InnoDB 中的三种行锁（记录锁、间隙锁与临键锁）@https://juejin.im/post/5b8577c26fb9a01a143fe04e@7@19
-优化#索引#MySQL性能优化（三）-- 索引@https://juejin.im/post/5d12c944e51d455d850d3b15@4@0
-其它#Mysql存储Emoji表情[为何utf8不能存储以及如何使Mysql能够存储Emoji表情]@https://juejin.im/post/5a992af1518825558506fb2e@4@0
-锁#MySQL 死锁问题分析@https://juejin.im/post/5d3b9765f265da1b6a34dc02@3@0
-其它#使用logstash同步mysql数据库信息到ElasticSearch@https://juejin.im/post/5cff5f12f265da1bd3055014@5@0
-优化#MySQL几个简单SQL的优化@https://juejin.im/post/59f6e5016fb9a045293609be@4@0
-其它#高性能mysql读书笔记（四） Mysql高级特性@https://juejin.im/post/5d6784b9f265da03a9504a36@3@0
-其它#mysql、mongdb傻瓜式操作@https://juejin.im/post/5d18cd74e51d45775746b982@3@0
-其它#解决：MySQL 报错：1045 - Access denied for user 'root'@'localhost'(using password YES)@https://juejin.im/post/5aeb19976fb9a07ac23a9696@5@4
-面试#Mysql实战面试题@https://juejin.im/post/5c36eb036fb9a049ed311103@3@0
-其它#深入理解mysql----innodb_ruby工具@https://juejin.im/post/5cd3cbfb518825358f3e5914@4@0
-其它#远程登录mysql踩坑@https://juejin.im/post/5b209b48f265da6e4b7a9e99@3@0
-其它#Linux安装Java、Maven、Mysql、RabbitMQ@https://juejin.im/post/5b1de8335188257d367e6697@3@0

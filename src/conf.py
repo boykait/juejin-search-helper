@@ -1,6 +1,6 @@
 # 定义爬虫参数
 # 最少点赞数
-min_like_count = 0
+min_like_count = 10
 
 # 最少评论数
 min_comment_count = 0

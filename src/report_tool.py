@@ -1,3 +1,6 @@
+from src.document import Document
+
+
 class Template_mixin(object):
     """html报告"""
     HTML_TMPL = """
@@ -65,18 +68,29 @@ if __name__ == '__main__':
         table_trs = ''
         if len(label_data) <= 0:
             continue
+        documents = []
         for line in label_data:
             try:
                 label = line.split('#')[0]
                 sub_line = line.split('#')[1]
                 name = sub_line.split('@')[0]
                 link = sub_line.split('@')[1]
-                likeCount = sub_line.split('@')[2]
-                commentCount = sub_line.split('@')[3]
-                table_trs += html.TABLE_TR_TMPL % dict(label=label, name=name, link=link, likeCount=likeCount,
-                                                       commentCount=commentCount)
-            except IndexError as e:
-                print(e)
+                like_count = sub_line.split('@')[2]
+                comment_count = sub_line.split('@')[3]
+                doc = Document(label, name, link, int(like_count), comment_count)
+                documents.append(doc)
+            except IndexError:
+                print(IndexError)
+            except ValueError:
+                print(ValueError)
+
+        # 按照点赞量进行降序排序
+        documents = sorted(documents, key=lambda document: document.like_count, reverse=True)
+        # 设置到tr行中
+        for doc in documents:
+            table_trs += html.TABLE_TR_TMPL % dict(label=doc.label, name=doc.name, link=doc.link,
+                                                   likeCount=str(doc.like_count),
+                                                   commentCount=doc.comment_count)
         table = html.TABLE_TMPL % dict(table_trs=table_trs)
         tables += table
 
