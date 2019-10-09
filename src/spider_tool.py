@@ -38,25 +38,28 @@ def get_data(after):
                     entity["title"] + '@' + url + "@%d" % (entity["likeCount"]) + "@%d" % entity["commentsCount"])
         except KeyError as e:
             print(e)
-    return query_result
+    return query_result, data["data"]["search"]["pageInfo"]["hasNextPage"]
 
 
 if __name__ == '__main__':
-    output_file = open('../output/mysql.txt', 'w+')
+    output_file = open('../output/' + config.key_word + '.txt', 'w+')
     for i in range(config.max_count):
         if i % 20 == 0:
-            query_result = get_data(i)
+            (query_result, has_next_page) = get_data(i)
+            if not has_next_page:
+                break
             for data in query_result:
                 try:
                     has = False
                     for label in config.labels:
-                        if label in data:
+                        if label.lower() in data.lower():
                             has = True
                             data = label + '#' + data
                     if not has:
                         data = '其它#' + data
-                    output_file.write(data)
-                    output_file.write('\n')
+                    if config.key_word.lower() in data.lower():
+                        output_file.write(data)
+                        output_file.write('\n')
                 except UnicodeEncodeError as e:
                     print(e)
             output_file.flush()
